@@ -1,407 +1,407 @@
 [
     {
-        "Color": "LightBlue",
-        "Hex Code": "ADD8E6",
-        "Coefficient": 80
+        "color": "LightBlue",
+        "hex": "ADD8E6",
+        "coefficient": 80
     },
     {
-        "Color": "Aqua",
-        "Hex Code": "00FFFF",
-        "Coefficient": 79
+        "color": "Aqua",
+        "hex": "00FFFF",
+        "coefficient": 79
     },
     {
-        "Color": "Wine",
-        "Hex Code": "7F1734",
-        "Coefficient": 78
+        "color": "Wine",
+        "hex": "7F1734",
+        "coefficient": 78
     },
     {
-        "Color": "Flax",
-        "Hex Code": "EEDC82",
-        "Coefficient": 77
+        "color": "Flax",
+        "hex": "EEDC82",
+        "coefficient": 77
     },
     {
-        "Color": "Camel",
-        "Hex Code": "C19A6B",
-        "Coefficient": 76
+        "color": "Camel",
+        "hex": "C19A6B",
+        "coefficient": 76
     },
     {
-        "Color": "Skyblue",
-        "Hex Code": "B2FFFF",
-        "Coefficient": 75
+        "color": "Skyblue",
+        "hex": "B2FFFF",
+        "coefficient": 75
     },
     {
-        "Color": "LightSkyBlue",
-        "Hex Code": "87CEFA",
-        "Coefficient": 74
+        "color": "LightSkyBlue",
+        "hex": "87CEFA",
+        "coefficient": 74
     },
     {
-        "Color": "Apricot",
-        "Hex Code": "FBCEB1",
-        "Coefficient": 73
+        "color": "Apricot",
+        "hex": "FBCEB1",
+        "coefficient": 73
     },
     {
-        "Color": "Androidgreen",
-        "Hex Code": "3DDC84",
-        "Coefficient": 72
+        "color": "Androidgreen",
+        "hex": "3DDC84",
+        "coefficient": 72
     },
     {
-        "Color": "Vermilion",
-        "Hex Code": "AA381E",
-        "Coefficient": 71
+        "color": "Vermilion",
+        "hex": "AA381E",
+        "coefficient": 71
     },
     {
-        "Color": "Acidgreen",
-        "Hex Code": "B0BF1A",
-        "Coefficient": 70
+        "color": "Acidgreen",
+        "hex": "B0BF1A",
+        "coefficient": 70
     },
     {
-        "Color": "Corn",
-        "Hex Code": "FBEC5D",
-        "Coefficient": 69
+        "color": "Corn",
+        "hex": "FBEC5D",
+        "coefficient": 69
     },
     {
-        "Color": "Champagne",
-        "Hex Code": "F7E7CE",
-        "Coefficient": 68
+        "color": "Champagne",
+        "hex": "F7E7CE",
+        "coefficient": 68
     },
     {
-        "Color": "DeepPink",
-        "Hex Code": "FF1493",
-        "Coefficient": 67
+        "color": "DeepPink",
+        "hex": "FF1493",
+        "coefficient": 67
     },
     {
-        "Color": "Lilac",
-        "Hex Code": "86608E",
-        "Coefficient": 66
+        "color": "Lilac",
+        "hex": "86608E",
+        "coefficient": 66
     },
     {
-        "Color": "Sapphire",
-        "Hex Code": null,
-        "Coefficient": 65
+        "color": "Sapphire",
+        "hex": null,
+        "coefficient": 65
     },
     {
-        "Color": "Saffron",
-        "Hex Code": "FF9933",
-        "Coefficient": 64
+        "color": "Saffron",
+        "hex": "FF9933",
+        "coefficient": 64
     },
     {
-        "Color": "Amber",
-        "Hex Code": "FFBF00",
-        "Coefficient": 63
+        "color": "Amber",
+        "hex": "FFBF00",
+        "coefficient": 63
     },
     {
-        "Color": "Electricgreen",
-        "Hex Code": "00FF00",
-        "Coefficient": 62
+        "color": "Electricgreen",
+        "hex": "00FF00",
+        "coefficient": 62
     },
     {
-        "Color": "Cream",
-        "Hex Code": "FFFDD0",
-        "Coefficient": 61
+        "color": "Cream",
+        "hex": "FFFDD0",
+        "coefficient": 61
     },
     {
-        "Color": "Springbud",
-        "Hex Code": "7BB661",
-        "Coefficient": 60
+        "color": "Springbud",
+        "hex": "7BB661",
+        "coefficient": 60
     },
     {
-        "Color": "CambridgeBlue",
-        "Hex Code": "A3C1AD",
-        "Coefficient": 59
+        "color": "CambridgeBlue",
+        "hex": "A3C1AD",
+        "coefficient": 59
     },
     {
-        "Color": "Blond",
-        "Hex Code": "FAF0BE",
-        "Coefficient": 58
+        "color": "Blond",
+        "hex": "FAF0BE",
+        "coefficient": 58
     },
     {
-        "Color": "Coffee",
-        "Hex Code": "4B3621",
-        "Coefficient": 57
+        "color": "Coffee",
+        "hex": "4B3621",
+        "coefficient": 57
     },
     {
-        "Color": "Burntsienna",
-        "Hex Code": "E97451",
-        "Coefficient": 56
+        "color": "Burntsienna",
+        "hex": "E97451",
+        "coefficient": 56
     },
     {
-        "Color": "Fallow",
-        "Hex Code": "C19A6B",
-        "Coefficient": 55
+        "color": "Fallow",
+        "hex": "C19A6B",
+        "coefficient": 55
     },
     {
-        "Color": "Amethyst",
-        "Hex Code": "9966CC",
-        "Coefficient": 54
+        "color": "Amethyst",
+        "hex": "9966CC",
+        "coefficient": 54
     },
     {
-        "Color": "Carnelian",
-        "Hex Code": "B31B1B",
-        "Coefficient": 53
+        "color": "Carnelian",
+        "hex": "B31B1B",
+        "coefficient": 53
     },
     {
-        "Color": "Cordovan",
-        "Hex Code": "893F45",
-        "Coefficient": 52
+        "color": "Cordovan",
+        "hex": "893F45",
+        "coefficient": 52
     },
     {
-        "Color": "Amazon",
-        "Hex Code": "3B7A57",
-        "Coefficient": 51
+        "color": "Amazon",
+        "hex": "3B7A57",
+        "coefficient": 51
     },
     {
-        "Color": "Cinereous",
-        "Hex Code": "98817B",
-        "Coefficient": 50
+        "color": "Cinereous",
+        "hex": "98817B",
+        "coefficient": 50
     },
     {
-        "Color": "Egyptianblue",
-        "Hex Code": "1034A6",
-        "Coefficient": 49
+        "color": "Egyptianblue",
+        "hex": "1034A6",
+        "coefficient": 49
     },
     {
-        "Color": "HotPink",
-        "Hex Code": "FF69B4",
-        "Coefficient": 48
+        "color": "HotPink",
+        "hex": "FF69B4",
+        "coefficient": 48
     },
     {
-        "Color": "Aeroblue",
-        "Hex Code": "C0E8D5",
-        "Coefficient": 47
+        "color": "Aeroblue",
+        "hex": "C0E8D5",
+        "coefficient": 47
     },
     {
-        "Color": "Crystal",
-        "Hex Code": "A7D8DE",
-        "Coefficient": 46
+        "color": "Crystal",
+        "hex": "A7D8DE",
+        "coefficient": 46
     },
     {
-        "Color": "Buff",
-        "Hex Code": "FFC680",
-        "Coefficient": 45
+        "color": "Buff",
+        "hex": "FFC680",
+        "coefficient": 45
     },
     {
-        "Color": "Carmine",
-        "Hex Code": "D70040",
-        "Coefficient": 44
+        "color": "Carmine",
+        "hex": "D70040",
+        "coefficient": 44
     },
     {
-        "Color": "Carolinablue",
-        "Hex Code": "56A0D3",
-        "Coefficient": 43
+        "color": "Carolinablue",
+        "hex": "56A0D3",
+        "coefficient": 43
     },
     {
-        "Color": "Lemon",
-        "Hex Code": "CAE00D",
-        "Coefficient": 42
+        "color": "Lemon",
+        "hex": "CAE00D",
+        "coefficient": 42
     },
     {
-        "Color": "Fawn",
-        "Hex Code": "E5AA70",
-        "Coefficient": 41
+        "color": "Fawn",
+        "hex": "E5AA70",
+        "coefficient": 41
     },
     {
-        "Color": "LightCyan",
-        "Hex Code": "E0FFFF",
-        "Coefficient": 40
+        "color": "LightCyan",
+        "hex": "E0FFFF",
+        "coefficient": 40
     },
     {
-        "Color": "Erin",
-        "Hex Code": "00FF40",
-        "Coefficient": 39
+        "color": "Erin",
+        "hex": "00FF40",
+        "coefficient": 39
     },
     {
-        "Color": "Beige",
-        "Hex Code": "A67B5B",
-        "Coefficient": 38
+        "color": "Beige",
+        "hex": "A67B5B",
+        "coefficient": 38
     },
     {
-        "Color": "LightPink",
-        "Hex Code": "FFB6C1",
-        "Coefficient": 37
+        "color": "LightPink",
+        "hex": "FFB6C1",
+        "coefficient": 37
     },
     {
-        "Color": "Eigengrau",
-        "Hex Code": "16161D",
-        "Coefficient": 36
+        "color": "Eigengrau",
+        "hex": "16161D",
+        "coefficient": 36
     },
     {
-        "Color": "Liver",
-        "Hex Code": "543D37",
-        "Coefficient": 35
+        "color": "Liver",
+        "hex": "543D37",
+        "coefficient": 35
     },
     {
-        "Color": "Lavender",
-        "Hex Code": "B48395",
-        "Coefficient": 34
+        "color": "Lavender",
+        "hex": "B48395",
+        "coefficient": 34
     },
     {
-        "Color": "Aquamarine",
-        "Hex Code": "7FFFD4",
-        "Coefficient": 33
+        "color": "Aquamarine",
+        "hex": "7FFFD4",
+        "coefficient": 33
     },
     {
-        "Color": "Pink",
-        "Hex Code": "FFC0CB",
-        "Coefficient": 32
+        "color": "Pink",
+        "hex": "FFC0CB",
+        "coefficient": 32
     },
     {
-        "Color": "Lime",
-        "Hex Code": "D0FF14",
-        "Coefficient": 31
+        "color": "Lime",
+        "hex": "D0FF14",
+        "coefficient": 31
     },
     {
-        "Color": "Cardinal",
-        "Hex Code": "C41E3A",
-        "Coefficient": 30
+        "color": "Cardinal",
+        "hex": "C41E3A",
+        "coefficient": 30
     },
     {
-        "Color": "Bronze",
-        "Hex Code": "CD7F32",
-        "Coefficient": 29
+        "color": "Bronze",
+        "hex": "CD7F32",
+        "coefficient": 29
     },
     {
-        "Color": "Almond",
-        "Hex Code": "EFDECD",
-        "Coefficient": 28
+        "color": "Almond",
+        "hex": "EFDECD",
+        "coefficient": 28
     },
     {
-        "Color": "Citrine",
-        "Hex Code": "E4D00A",
-        "Coefficient": 27
+        "color": "Citrine",
+        "hex": "E4D00A",
+        "coefficient": 27
     },
     {
-        "Color": "Navyblue",
-        "Hex Code": "1974D2",
-        "Coefficient": 26
+        "color": "Navyblue",
+        "hex": "1974D2",
+        "coefficient": 26
     },
     {
-        "Color": "Cerulean",
-        "Hex Code": "1DACD6",
-        "Coefficient": 25
+        "color": "Cerulean",
+        "hex": "1DACD6",
+        "coefficient": 25
     },
     {
-        "Color": "Cyclamen",
-        "Hex Code": "F56FA1",
-        "Coefficient": 24
+        "color": "Cyclamen",
+        "hex": "F56FA1",
+        "coefficient": 24
     },
     {
-        "Color": "Chestnut",
-        "Hex Code": "B94E48",
-        "Coefficient": 23
+        "color": "Chestnut",
+        "hex": "B94E48",
+        "coefficient": 23
     },
     {
-        "Color": "Chocolate",
-        "Hex Code": "D2691E",
-        "Coefficient": 22
+        "color": "Chocolate",
+        "hex": "D2691E",
+        "coefficient": 22
     },
     {
-        "Color": "Mauve",
-        "Hex Code": "D473D4",
-        "Coefficient": 21
+        "color": "Mauve",
+        "hex": "D473D4",
+        "coefficient": 21
     },
     {
-        "Color": "Blue-gray",
-        "Hex Code": 666699,
-        "Coefficient": 20
+        "color": "Blue-gray",
+        "hex": 666699,
+        "coefficient": 20
     },
     {
-        "Color": "Orchid",
-        "Hex Code": "9932CC",
-        "Coefficient": 19
+        "color": "Orchid",
+        "hex": "9932CC",
+        "coefficient": 19
     },
     {
-        "Color": "Taupe",
-        "Hex Code": "7E5E60",
-        "Coefficient": 18
+        "color": "Taupe",
+        "hex": "7E5E60",
+        "coefficient": 18
     },
     {
-        "Color": "Teal",
-        "Hex Code": "008080",
-        "Coefficient": 17
+        "color": "Teal",
+        "hex": "008080",
+        "coefficient": 17
     },
     {
-        "Color": "Fuchsia",
-        "Hex Code": "915C83",
-        "Coefficient": 16
+        "color": "Fuchsia",
+        "hex": "915C83",
+        "coefficient": 16
     },
     {
-        "Color": "Electricblue",
-        "Hex Code": 536878,
-        "Coefficient": 15
+        "color": "Electricblue",
+        "hex": 536878,
+        "coefficient": 15
     },
     {
-        "Color": "Azure",
-        "Hex Code": "007FFF",
-        "Coefficient": 14
+        "color": "Azure",
+        "hex": "007FFF",
+        "coefficient": 14
     },
     {
-        "Color": "Electricblue",
-        "Hex Code": "7DF9FF",
-        "Coefficient": 13
+        "color": "Electricblue",
+        "hex": "7DF9FF",
+        "coefficient": 13
     },
     {
-        "Color": "AirForceblue",
-        "Hex Code": "5072A7",
-        "Coefficient": 12
+        "color": "AirForceblue",
+        "hex": "5072A7",
+        "coefficient": 12
     },
     {
-        "Color": "Brown",
-        "Hex Code": "88540B",
-        "Coefficient": 11
+        "color": "Brown",
+        "hex": "88540B",
+        "coefficient": 11
     },
     {
-        "Color": "Etonblue",
-        "Hex Code": "96C8A2",
-        "Coefficient": 10
+        "color": "Etonblue",
+        "hex": "96C8A2",
+        "coefficient": 10
     },
     {
-        "Color": "Byzantium",
-        "Hex Code": "BD33A4",
-        "Coefficient": 9
+        "color": "Byzantium",
+        "hex": "BD33A4",
+        "coefficient": 9
     },
     {
-        "Color": "Coral",
-        "Hex Code": "F88379",
-        "Coefficient": 8
+        "color": "Coral",
+        "hex": "F88379",
+        "coefficient": 8
     },
     {
-        "Color": "Turquoise",
-        "Hex Code": "00CED1",
-        "Coefficient": 7
+        "color": "Turquoise",
+        "hex": "00CED1",
+        "coefficient": 7
     },
     {
-        "Color": "Antiquebrass",
-        "Hex Code": "CD9575",
-        "Coefficient": 6
+        "color": "Antiquebrass",
+        "hex": "CD9575",
+        "coefficient": 6
     },
     {
-        "Color": "Antiquebronze",
-        "Hex Code": "665D1E",
-        "Coefficient": 5
+        "color": "Antiquebronze",
+        "hex": "665D1E",
+        "coefficient": 5
     },
     {
-        "Color": "ColumbiaBlue",
-        "Hex Code": "B9D9EB",
-        "Coefficient": 4
+        "color": "ColumbiaBlue",
+        "hex": "B9D9EB",
+        "coefficient": 4
     },
     {
-        "Color": "Citron",
-        "Hex Code": "9FA91F",
-        "Coefficient": 3
+        "color": "Citron",
+        "hex": "9FA91F",
+        "coefficient": 3
     },
     {
-        "Color": "Ecru",
-        "Hex Code": "C2B280",
-        "Coefficient": 2
+        "color": "Ecru",
+        "hex": "C2B280",
+        "coefficient": 2
     },
     {
-        "Color": "Cornflowerblue",
-        "Hex Code": "6495ED",
-        "Coefficient": 1
+        "color": "Cornflowerblue",
+        "hex": "6495ED",
+        "coefficient": 1
     },
     {
-        "Color": "Cobaltblue",
-        "Hex Code": "0047AB",
-        "Coefficient": 0
+        "color": "Cobaltblue",
+        "hex": "0047AB",
+        "coefficient": 0
     }
 ]
