@@ -53,9 +53,7 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Bistre](https://img.shields.io/static/v1?label=&message=Bistre&color=3D2B1F&style=for-the-badge)  | Bistre  |  3D2B1F |
 | ![BleudeFrance](https://img.shields.io/static/v1?label=&message=BleudeFrance&color=318CE7&style=for-the-badge)  | BleudeFrance  |  318CE7 |
 | ![Blond](https://img.shields.io/static/v1?label=&message=Blond&color=FAF0BE&style=for-the-badge)  | Blond  |  FAF0BE |
-| ![Bloodred](https://img.shields.io/static/v1?label=&message=Bloodred&color=660000&style=for-the-badge)  | Bloodred  |  660000 |
 | ![Blue-gray](https://img.shields.io/static/v1?label=&message=Blue-gray&color=666699&style=for-the-badge)  | Blue-gray  |  666699 |
-| ![Blue](https://img.shields.io/static/v1?label=&message=Blue&color=0000FF&style=for-the-badge)  | Blue  |  0000FF |
 | ![Bole](https://img.shields.io/static/v1?label=&message=Bole&color=79443B&style=for-the-badge)  | Bole  |  79443B |
 | ![Bronze](https://img.shields.io/static/v1?label=&message=Bronze&color=CD7F32&style=for-the-badge)  | Bronze  |  CD7F32 |
 | ![Brown](https://img.shields.io/static/v1?label=&message=Brown&color=88540B&style=for-the-badge)  | Brown  |  88540B |
@@ -79,7 +77,6 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Chartreuse](https://img.shields.io/static/v1?label=&message=Chartreuse&color=8DB600&style=for-the-badge)  | Chartreuse  |  8DB600 |
 | ![Chestnut](https://img.shields.io/static/v1?label=&message=Chestnut&color=B94E48&style=for-the-badge)  | Chestnut  |  B94E48 |
 | ![Chocolate](https://img.shields.io/static/v1?label=&message=Chocolate&color=D2691E&style=for-the-badge)  | Chocolate  |  D2691E |
-| ![Chromeyellow](https://img.shields.io/static/v1?label=&message=Chromeyellow&color=FFA700&style=for-the-badge)  | Chromeyellow  |  FFA700 |
 | ![Cinereous](https://img.shields.io/static/v1?label=&message=Cinereous&color=98817B&style=for-the-badge)  | Cinereous  |  98817B |
 | ![Citrine](https://img.shields.io/static/v1?label=&message=Citrine&color=E4D00A&style=for-the-badge)  | Citrine  |  E4D00A |
 | ![Citron](https://img.shields.io/static/v1?label=&message=Citron&color=9FA91F&style=for-the-badge)  | Citron  |  9FA91F |
@@ -94,11 +91,9 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Cosmiclatte](https://img.shields.io/static/v1?label=&message=Cosmiclatte&color=FFF8E7&style=for-the-badge)  | Cosmiclatte  |  FFF8E7 |
 | ![Coyotebrown](https://img.shields.io/static/v1?label=&message=Coyotebrown&color=81613C&style=for-the-badge)  | Coyotebrown  |  81613C |
 | ![Cream](https://img.shields.io/static/v1?label=&message=Cream&color=FFFDD0&style=for-the-badge)  | Cream  |  FFFDD0 |
-| ![Crimson](https://img.shields.io/static/v1?label=&message=Crimson&color=DC143C&style=for-the-badge)  | Crimson  |  DC143C |
 | ![Crystal](https://img.shields.io/static/v1?label=&message=Crystal&color=A7D8DE&style=for-the-badge)  | Crystal  |  A7D8DE |
 | ![Cyan](https://img.shields.io/static/v1?label=&message=Cyan&color=00FFFF&style=for-the-badge)  | Cyan  |  00FFFF |
 | ![Cyclamen](https://img.shields.io/static/v1?label=&message=Cyclamen&color=F56FA1&style=for-the-badge)  | Cyclamen  |  F56FA1 |
-| ![Darkpurple](https://img.shields.io/static/v1?label=&message=Darkpurple&color=301934&style=for-the-badge)  | Darkpurple  |  301934 |
 | ![Davy'sgrey](https://img.shields.io/static/v1?label=&message=Davy'sgrey&color=555555&style=for-the-badge)  | Davy'sgrey  |  555555 |
 | ![DeepPink](https://img.shields.io/static/v1?label=&message=DeepPink&color=FF1493&style=for-the-badge)  |  DeepPink |  FF1493 |
 | ![Dodgerblue](https://img.shields.io/static/v1?label=&message=Dodgerblue&color=1E90FF&style=for-the-badge)  | Dodgerblue  |  1E90FF |
@@ -114,9 +109,7 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Erin](https://img.shields.io/static/v1?label=&message=Erin&color=00FF40&style=for-the-badge)  | Erin  |  00FF40 |
 | ![Etonblue](https://img.shields.io/static/v1?label=&message=Etonblue&color=96C8A2&style=for-the-badge)  | Etonblue  |  96C8A2 |
 | ![Fallow](https://img.shields.io/static/v1?label=&message=Fallow&color=C19A6B&style=for-the-badge)  | Fallow  |  C19A6B |
-| ![Falured](https://img.shields.io/static/v1?label=&message=Falured&color=801818&style=for-the-badge)  | Falured  |  801818 |
 | ![Fawn](https://img.shields.io/static/v1?label=&message=Fawn&color=E5AA70&style=for-the-badge)  | Fawn  |  E5AA70 |
-| ![Fireenginered](https://img.shields.io/static/v1?label=&message=Fireenginered&color=CE2029&style=for-the-badge)  | Fireenginered  |  CE2029 |
 | ![Flame](https://img.shields.io/static/v1?label=&message=Flame&color=E25822&style=for-the-badge)  | Flame  |  E25822 |
 | ![Flax](https://img.shields.io/static/v1?label=&message=Flax&color=EEDC82&style=for-the-badge)  | Flax  |  EEDC82 |
 | ![Fuchsia](https://img.shields.io/static/v1?label=&message=Fuchsia&color=915C83&style=for-the-badge)  | Fuchsia  |  915C83 |
@@ -124,8 +117,6 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Goldenrod](https://img.shields.io/static/v1?label=&message=Goldenrod&color=B8860B&style=for-the-badge)  | Goldenrod  |  B8860B |
 | ![Grey](https://img.shields.io/static/v1?label=&message=Grey&color=696969&style=for-the-badge)  | Grey  |  696969 |
 | ![HotPink](https://img.shields.io/static/v1?label=&message=HotPink&color=FF69B4&style=for-the-badge)  |  HotPink |  FF69B4 |
-| ![Indianred](https://img.shields.io/static/v1?label=&message=Indianred&color=AB4B52&style=for-the-badge)  | Indianred  |  AB4B52 |
-| ![Indigo](https://img.shields.io/static/v1?label=&message=Indigo&color=6F00FF&style=for-the-badge)  | Indigo  |  6F00FF |
 | ![Junglegreen](https://img.shields.io/static/v1?label=&message=Junglegreen&color=004B49&style=for-the-badge)  | Junglegreen  |  004B49 |
 | ![Khaki](https://img.shields.io/static/v1?label=&message=Khaki&color=BDB76B&style=for-the-badge)  | Khaki  |  BDB76B |
 | ![Lava](https://img.shields.io/static/v1?label=&message=Lava&color=483C32&style=for-the-badge)  | Lava  |  483C32 |
@@ -146,10 +137,8 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Orchid](https://img.shields.io/static/v1?label=&message=Orchid&color=9932CC&style=for-the-badge)  | Orchid  |  9932CC |
 | ![Pink](https://img.shields.io/static/v1?label=&message=Pink&color=FFC0CB&style=for-the-badge)  |  Pink |  FFC0CB |
 | ![Raspberry](https://img.shields.io/static/v1?label=&message=Raspberry&color=C72C48&style=for-the-badge)  | Raspberry  |  C72C48 |
-| ![Red-violet](https://img.shields.io/static/v1?label=&message=Red-violet&color=A2006D&style=for-the-badge)  | Red-violet  |  A2006D |
 | ![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=841B2D&style=for-the-badge)  | Ruby  |  841B2D |
 | ![Saffron](https://img.shields.io/static/v1?label=&message=Saffron&color=FF9933&style=for-the-badge)  | Saffron  |  FF9933 |
-| ![Salmon](https://img.shields.io/static/v1?label=&message=Salmon&color=E9967A&style=for-the-badge)  | Salmon  |  E9967A |
 | ![Sapphire](https://img.shields.io/static/v1?label=&message=Sapphire&color=2E5894&style=for-the-badge)  | Sapphire  |  2E5894 |
 | ![Shades_of_cyan](https://img.shields.io/static/v1?label=&message=Shades_of_cyan&color=007BA7&style=for-the-badge)  | Shades_of_cyan  |  007BA7 |
 | ![Sienna Darksienna](https://img.shields.io/static/v1?label=&message=SiennaDarksienna&color=3C1414&style=for-the-badge)  | Sienna Darksienna  |  3C1414 |
@@ -162,6 +151,5 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Turquoise](https://img.shields.io/static/v1?label=&message=Turquoise&color=00CED1&style=for-the-badge)  | Turquoise  |  00CED1 |
 | ![Vermilion Cinnabar](https://img.shields.io/static/v1?label=&message=VermilionCinnabar&color=E34234&style=for-the-badge)  | Vermilion Cinnabar  |  E34234 |
 | ![Vermilion](https://img.shields.io/static/v1?label=&message=Vermilion&color=AA381E&style=for-the-badge)  | Vermilion  |  AA381E |
-| ![Violet](https://img.shields.io/static/v1?label=&message=Violet&color=4D1A7F&style=for-the-badge)  | Violet  |  4D1A7F |
 | ![Wine](https://img.shields.io/static/v1?label=&message=Wine&color=7F1734&style=for-the-badge)  | Wine  |  7F1734 |
 | ------------ |  ------------ |  ------------ |  ------------ | 
