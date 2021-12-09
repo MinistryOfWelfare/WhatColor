@@ -1,2 +1,4 @@
 # WhatColor
-Sibyl system's - what color are you json/readme and basics
+
+
+This readme is mainly for developers with resources that help them implement the color grading systeminto their bots and scripts. 
