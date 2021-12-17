@@ -21,9 +21,8 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![Navy](https://img.shields.io/static/v1?label=&message=Navy&color=000080&style=for-the-badge)  |  Navy |  000080 |  251-300 | 
 | ![Blue](https://img.shields.io/static/v1?label=&message=Blue&color=0000FF&style=for-the-badge)  |  Blue |  0000FF |  201-250 | 
 | ![Magenta](https://img.shields.io/static/v1?label=&message=Magenta&color=FF00FF&style=for-the-badge)  |  Magenta |  FF00FF |  151-200 | 
-| ![FireBrick](https://img.shields.io/static/v1?label=&message=FireBrick&color=B22222&style=for-the-badge)  |  FireBrick |  B22222 |  126-150 | 
 | Enforcer Hue |  ------------ |  ------------ |  ------------ | 
-| ![Yellow](https://img.shields.io/static/v1?label=&message=Yellow&color=FFFF00&style=for-the-badge)  |  Yellow |  FFFF00 |  101-125 | 
+| ![FireBrick](https://img.shields.io/static/v1?label=&message=FireBrick&color=B22222&style=for-the-badge)  |  FireBrick |  B22222 |  101-150 | 
 | Restored user range |  ------------ |  ------------ |  ------------ | 
 | ![Violet](https://img.shields.io/static/v1?label=&message=Violet&color=EE82EE&style=for-the-badge)  |  Violet |  EE82EE |  96-100 | 
 | ![Crimson](https://img.shields.io/static/v1?label=&message=Crimson&color=DC143C&style=for-the-badge)  |  Crimson |  DC143C |  91-95 | 
