@@ -535,7 +535,7 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | 525 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A57164&style=for-the-badge) | Blast off bronze | #A57164 |
 | 526 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E23D28&style=for-the-badge) | Chili red | #E23D28 |
 | 527 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=15F4EE&style=for-the-badge) | Fluorescent blue | #15F4EE |
- | | 528 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C74375&style=for-the-badge) | Fuchsia rose | #C74375 |
+| 528 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C74375&style=for-the-badge) | Fuchsia rose | #C74375 |
 | 529 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D4AF37&style=for-the-badge) | Gold metallic | #D4AF37 |
 | 530 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F4CA16&style=for-the-badge) | Jonquil | #F4CA16 |
 | 531 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=EAA221&style=for-the-badge) | Marigold | #EAA221 |
@@ -955,7 +955,7 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | 945 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFFDD0&style=for-the-badge) | Cream | #FFFDD0 |
 | 946 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FADADD&style=for-the-badge) | Pale pink | #FADADD |
 | 947 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFEFD5&style=for-the-badge) | Papaya whip | #FFEFD5 |
- | | 948 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFF8DC&style=for-the-badge) | Cornsilk | #FFF8DC |
+| 948 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFF8DC&style=for-the-badge) | Cornsilk | #FFF8DC |
 | 949 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFDAE9&style=for-the-badge) | Mimi pink | #FFDAE9 |
 | 950 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E9FFDB&style=for-the-badge) | Nyanza | #E9FFDB |
 | 951 || ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FDDDE6&style=for-the-badge) | Piggy pink | #FDDDE6 |
