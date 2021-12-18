@@ -20,12 +20,10 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=100C08&style=for-the-badge) | Smoky black | #100C08 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1B1811&style=for-the-badge) | Black chocolate | #1B1811 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=013220&style=for-the-badge) | Dark green | #013220 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=16161D&style=for-the-badge) | Eigengrau | #16161D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1B1B1B&style=for-the-badge) | Eerie black | #1B1B1B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3D0C02&style=for-the-badge) | Black bean | #3D0C02 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=004040&style=for-the-badge) | Rich black | #004040 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=004242&style=for-the-badge) | Warm black | #004242 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=002147&style=for-the-badge) | Oxford blue | #002147 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=123524&style=for-the-badge) | Phthalo green | #123524 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=242124&style=for-the-badge) | Raisin black | #242124 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=59260B&style=for-the-badge) | Seal brown | #59260B |
@@ -36,24 +34,15 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2A2F23&style=for-the-badge) | Pine tree | #2A2F23 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=003153&style=for-the-badge) | Prussian blue | #003153 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00563F&style=for-the-badge) | Castleton green | #00563F |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00573F&style=for-the-badge) | Gotham green | #00573F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3D2B1F&style=for-the-badge) | Bistre | #3D2B1F |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=195905&style=for-the-badge) | Lincoln green | #195905 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=18453B&style=for-the-badge) | MSU green | #18453B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3C341F&style=for-the-badge) | Olive Drab 7 | #3C341F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2a3439&style=for-the-badge) | Gunmetal | #2a3439 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=660000&style=for-the-badge) | Blood red | #660000 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1B4D3E&style=for-the-badge) | Brunswick green | #1B4D3E |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1B4D3E&style=for-the-badge) | English green | #1B4D3E |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=343434&style=for-the-badge) | Jet | #343434 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=006600&style=for-the-badge) | Pakistan green | #006600 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=65000B&style=for-the-badge) | Rosewood | #65000B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=32174D&style=for-the-badge) | Russian violet | #32174D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=66023C&style=for-the-badge) | Tyrian purple | #66023C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3B2F2F&style=for-the-badge) | Black coffee | #3B2F2F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=006A4E&style=for-the-badge) | Bottle green | #006A4E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=006B3C&style=for-the-badge) | Cadmium green | #006B3C |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4B3621&style=for-the-badge) | CafÃ© noir | #4B3621 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=58111A&style=for-the-badge) | Chocolate Cosmos | #58111A |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00416A&style=for-the-badge) | Indigo dye | #00416A |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00356B&style=for-the-badge) | Yale Blue | #00356B |
@@ -62,16 +51,11 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=354230&style=for-the-badge) | Kombu green | #354230 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=43302E&style=for-the-badge) | Old burgundy | #43302E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=353839&style=for-the-badge) | Onyx | #353839 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1D2951&style=for-the-badge) | Space cadet | #1D2951 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4B5320&style=for-the-badge) | Army green | #4B5320 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=007474&style=for-the-badge) | Skobeloff | #007474 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00755E&style=for-the-badge) | Tropical rainforest | #00755E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=592720&style=for-the-badge) | Caput mortuum | #592720 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=7B3F00&style=for-the-badge) | Chocolate traditional | #7B3F00 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=483C32&style=for-the-badge) | Dark lava | #483C32 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=01796F&style=for-the-badge) | Pine green | #01796F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=483C32&style=for-the-badge) | Taupe | #483C32 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=008000&style=for-the-badge) | Ao English | #008000 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=7C0A02&style=for-the-badge) | Barn red | #7C0A02 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=800020&style=for-the-badge) | Burgundy | #800020 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=007F66&style=for-the-badge) | Generic viridian | #007F66 |
@@ -81,34 +65,25 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=808000&style=for-the-badge) | Olive | #808000 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=800080&style=for-the-badge) | Patriarch | #800080 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=800080&style=for-the-badge) | Purple web | #800080 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=007F5C&style=for-the-badge) | Spanish viridian | #007F5C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=008080&style=for-the-badge) | Teal | #008080 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=665D1E&style=for-the-badge) | Antique bronze | #665D1E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=568203&style=for-the-badge) | Avocado | #568203 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=36454F&style=for-the-badge) | Charcoal | #36454F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=654321&style=for-the-badge) | Dark brown | #654321 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4B0082&style=for-the-badge) | Indigo | #4B0082 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=002387&style=for-the-badge) | Resolution blue | #002387 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=444C38&style=for-the-badge) | Rifle green | #444C38 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=704214&style=for-the-badge) | Sepia | #704214 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=008B8B&style=for-the-badge) | Dark cyan | #008B8B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8B008B&style=for-the-badge) | Dark magenta | #8B008B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8B0000&style=for-the-badge) | Dark red | #8B0000 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6C541E&style=for-the-badge) | Field drab | #6C541E |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6C2E1F&style=for-the-badge) | Liver organ | #6C2E1F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=880085&style=for-the-badge) | Mardi Gras | #880085 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=191970&style=for-the-badge) | Midnight blue | #191970 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=32127A&style=for-the-badge) | Persian indigo | #32127A |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=701C1C&style=for-the-badge) | Persian plum | #701C1C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=000F89&style=for-the-badge) | Phthalo blue | #000F89 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=701C1C&style=for-the-badge) | Prune | #701C1C |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=7B1113&style=for-the-badge) | UP maroon | #7B1113 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=138808&style=for-the-badge) | India green | #138808 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=5B3256&style=for-the-badge) | Japanese violet | #5B3256 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6B4423&style=for-the-badge) | Kobicha | #6B4423 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=682860&style=for-the-badge) | Palatinate purple | #682860 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=78184A&style=for-the-badge) | Pansy purple | #78184A |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=009150&style=for-the-badge) | Spanish green | #009150 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=126180&style=for-the-badge) | Blue sapphire | #126180 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=88540B&style=for-the-badge) | Brown | #88540B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=960018&style=for-the-badge) | Carmine | #960018 |
@@ -118,22 +93,17 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0A7E8C&style=for-the-badge) | Metallic Seaweed | #0A7E8C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=702670&style=for-the-badge) | Midnight | #702670 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=702963&style=for-the-badge) | Byzantium | #702963 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=563C5C&style=for-the-badge) | English violet | #563C5C |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=801818&style=for-the-badge) | Falu red | #801818 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=009966&style=for-the-badge) | Green cyan | #009966 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=673147&style=for-the-badge) | Old mauve | #673147 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=80461B&style=for-the-badge) | Russet | #80461B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3F00FF&style=for-the-badge) | Ultramarine | #3F00FF |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=004F98&style=for-the-badge) | USAFA blue | #004F98 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=009698&style=for-the-badge) | Viridian green | #009698 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=673147&style=for-the-badge) | Wine dregs | #673147 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=841B2D&style=for-the-badge) | Antique ruby | #841B2D |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=534B4F&style=for-the-badge) | Dark liver | #534B4F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00009C&style=for-the-badge) | Duke blue | #00009C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=009F6B&style=for-the-badge) | Green NCS | #009F6B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=882D17&style=for-the-badge) | Kobe | #882D17 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8B4513&style=for-the-badge) | Saddle brown | #8B4513 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=23297A&style=for-the-badge) | St. Patricks blue | #23297A |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=009E60&style=for-the-badge) | Shamrock green | #009E60 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=882D17&style=for-the-badge) | Sienna | #882D17 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=007AA5&style=for-the-badge) | CG blue | #007AA5 |
@@ -153,13 +123,9 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=87421F&style=for-the-badge) | Fuzzy Wuzzy | #87421F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00A877&style=for-the-badge) | Green Munsell | #00A877 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00A86B&style=for-the-badge) | Jade | #00A86B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=512888&style=for-the-badge) | KSU purple | #512888 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=317873&style=for-the-badge) | Myrtle green | #317873 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00A693&style=for-the-badge) | Persian green | #00A693 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=507D2A&style=for-the-badge) | Sap green | #507D2A |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4C2882&style=for-the-badge) | Spanish violet | #4C2882 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6F4E37&style=for-the-badge) | Tuscan brown | #6F4E37 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0033AA&style=for-the-badge) | UA blue | #0033AA |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=635147&style=for-the-badge) | Umber | #635147 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A75502&style=for-the-badge) | Windsor tan | #A75502 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0014A8&style=for-the-badge) | Zaffre | #0014A8 |
@@ -172,7 +138,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00AB66&style=for-the-badge) | GO green | #00AB66 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=996515&style=for-the-badge) | Golden brown | #996515 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00AD43&style=for-the-badge) | Green Pantone | #00AD43 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=674C47&style=for-the-badge) | Liver | #674C47 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=967117&style=for-the-badge) | Mode beige | #967117 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2E2787&style=for-the-badge) | Picotee blue | #2E2787 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=674846&style=for-the-badge) | Rose ebony | #674846 |
@@ -183,39 +148,32 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=79443B&style=for-the-badge) | Bole | #79443B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2F847C&style=for-the-badge) | Celadon green | #2F847C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6C3082&style=for-the-badge) | Eminence | #6C3082 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=006DB0&style=for-the-badge) | Honolulu blue | #006DB0 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A50B5E&style=for-the-badge) | Jazzberry jam | #A50B5E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=733380&style=for-the-badge) | Maximum purple | #733380 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=36747D&style=for-the-badge) | Ming | #36747D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6B8E23&style=for-the-badge) | Olive Drab 3 | #6B8E23 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=807532&style=for-the-badge) | Spanish bistre | #807532 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8601AF&style=for-the-badge) | Violet RYB | #8601AF |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3B7A57&style=for-the-badge) | Amazon | #3B7A57 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8DB600&style=for-the-badge) | Apple green | #8DB600 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2E2D88&style=for-the-badge) | Cosmic cobalt | #2E2D88 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9E1B32&style=for-the-badge) | Crimson UA | #9E1B32 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1034A6&style=for-the-badge) | Egyptian blue | #1034A6 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4C516D&style=for-the-badge) | Independence | #4C516D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2E8B57&style=for-the-badge) | Sea green | #2E8B57 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0070B8&style=for-the-badge) | Spanish blue | #0070B8 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1C05B3&style=for-the-badge) | Trypan Blue | #1C05B3 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0048BA&style=for-the-badge) | Absolute Zero | #0048BA |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0087BD&style=for-the-badge) | Blue NCS | #0087BD |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=81613C&style=for-the-badge) | Coyote brown | #81613C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=58427C&style=for-the-badge) | Cyber grape | #58427C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4F7942&style=for-the-badge) | Fern green | #4F7942 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0072BB&style=for-the-badge) | French blue | #0072BB |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=5E8C31&style=for-the-badge) | Maximum green | #5E8C31 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6A0DAD&style=for-the-badge) | Purple | #6A0DAD |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=367588&style=for-the-badge) | Teal blue | #367588 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9F1D35&style=for-the-badge) | Vivid burgundy | #9F1D35 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2E5090&style=for-the-badge) | YInMn Blue | #2E5090 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2E5894&style=for-the-badge) | Bdazzled blue | #2E5894 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9C2542&style=for-the-badge) | Big dip oâ€™ruby | #9C2542 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=54626F&style=for-the-badge) | Black coral | #54626F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B8860B&style=for-the-badge) | Dark goldenrod | #B8860B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=49796B&style=for-the-badge) | Hookers green | #49796B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=319177&style=for-the-badge) | Illuminating emerald | #319177 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=26619C&style=for-the-badge) | Lapis lazuli | #26619C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C04000&style=for-the-badge) | Mahogany | #C04000 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=893843&style=for-the-badge) | Solid pink | #893843 |
@@ -230,7 +188,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=893F45&style=for-the-badge) | Cordovan | #893F45 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1CAC78&style=for-the-badge) | Green Crayola | #1CAC78 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1164B4&style=for-the-badge) | Green blue | #1164B4 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9D2933&style=for-the-badge) | Japanese carmine | #9D2933 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9F00C5&style=for-the-badge) | Purple Munsell | #9F00C5 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8E3A59&style=for-the-badge) | Quinacridone magenta | #8E3A59 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=826644&style=for-the-badge) | Raw umber | #826644 |
@@ -253,19 +210,16 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2D5DA1&style=for-the-badge) | Sapphire Crayola | #2D5DA1 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD5700&style=for-the-badge) | TennÃ© tawny | #CD5700 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AE2029&style=for-the-badge) | Upsdell red | #AE2029 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AB274F&style=for-the-badge) | Amaranth purple | #AB274F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A52A2A&style=for-the-badge) | Auburn | #A52A2A |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00CED1&style=for-the-badge) | Dark turquoise | #00CED1 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9400D3&style=for-the-badge) | Dark violet | #9400D3 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1560BD&style=for-the-badge) | Denim | #1560BD |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=696969&style=for-the-badge) | Dim gray | #696969 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=856D4D&style=for-the-badge) | French bistre | #856D4D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=85754E&style=for-the-badge) | Gold Fusion | #85754E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4CBB17&style=for-the-badge) | Kelly green | #4CBB17 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4C9141&style=for-the-badge) | May green | #4C9141 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8E4585&style=for-the-badge) | Plum | #8E4585 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D10056&style=for-the-badge) | Rubine red | #D10056 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D10047&style=for-the-badge) | Spanish carmine | #D10047 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2D68C4&style=for-the-badge) | True Blue | #2D68C4 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8A496B&style=for-the-badge) | Twilight lavender | #8A496B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C80815&style=for-the-badge) | Venetian red | #C80815 |
@@ -274,10 +228,8 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D70040&style=for-the-badge) | Carmine M&P | #D70040 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2243B6&style=for-the-badge) | Denim blue | #2243B6 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B22222&style=for-the-badge) | Firebrick | #B22222 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8806CE&style=for-the-badge) | French violet | #8806CE |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=29AB87&style=for-the-badge) | Jungle green | #29AB87 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9C7C38&style=for-the-badge) | Metallic Sunburst | #9C7C38 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1C39BB&style=for-the-badge) | Persian blue | #1C39BB |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=436B95&style=for-the-badge) | Queen blue | #436B95 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D40000&style=for-the-badge) | Rosso corsa | #D40000 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8FD400&style=for-the-badge) | Sheen green | #8FD400 |
@@ -290,17 +242,13 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8D4E85&style=for-the-badge) | Razzmic Berry | #8D4E85 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C71585&style=for-the-badge) | Red violet | #C71585 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A83731&style=for-the-badge) | Sweet Brown | #A83731 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D9004C&style=for-the-badge) | UA red | #D9004C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C41E3A&style=for-the-badge) | Cardinal | #C41E3A |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=66B032&style=for-the-badge) | Green RYB | #66B032 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CF1020&style=for-the-badge) | Lava | #CF1020 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B86D29&style=for-the-badge) | Liver dogs | #B86D29 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B03060&style=for-the-badge) | Maroon X11 | #B03060 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=796878&style=for-the-badge) | Old lavender | #796878 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C21E56&style=for-the-badge) | Rose red | #C21E56 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=914E75&style=for-the-badge) | Sugar Plum | #914E75 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=56887D&style=for-the-badge) | Wintergreen Dream | #56887D |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=39A78E&style=for-the-badge)  | Zomp | #39A78E |
+| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=39A78E&style=for-the-badge) | Zomp | #39A78E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C32148&style=for-the-badge) | Bright maroon | #C32148 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E30022&style=for-the-badge) | Cadmium red | #E30022 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2A52BE&style=for-the-badge) | Cerulean blue | #2A52BE |
@@ -315,8 +263,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1CA9C9&style=for-the-badge) | Pacific blue | #1CA9C9 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E40078&style=for-the-badge) | Red purple | #E40078 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8A795D&style=for-the-badge) | Shadow | #8A795D |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E86100&style=for-the-badge) | Spanish orange | #E86100 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E60026&style=for-the-badge) | Spanish red | #E60026 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=324AB2&style=for-the-badge) | Violet blue | #324AB2 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=189BCC&style=for-the-badge) | Weezy Blue | #189BCC |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=915C83&style=for-the-badge) | Antique fuchsia | #915C83 |
@@ -338,28 +284,20 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D2691E&style=for-the-badge) | Cocoa brown | #D2691E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DC143C&style=for-the-badge) | Crimson | #DC143C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D71868&style=for-the-badge) | Dogwood rose | #D71868 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=86608E&style=for-the-badge) | French lilac | #86608E |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=987456&style=for-the-badge) | Liver chestnut | #987456 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=915F6D&style=for-the-badge) | Mauve taupe | #915F6D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3EB489&style=for-the-badge) | Mint | #3EB489 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AD4379&style=for-the-badge) | Mystic maroon | #AD4379 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CC7722&style=for-the-badge) | Ochre | #CC7722 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E30B5D&style=for-the-badge) | Raspberry | #E30B5D |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=915F6D&style=for-the-badge) | Raspberry glace | #915F6D |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F2003C&style=for-the-badge) | Red Munsell | #F2003C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E0115F&style=for-the-badge) | Ruby | #E0115F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=EED202&style=for-the-badge) | Safety yellow | #EED202 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F28500&style=for-the-badge) | Tangerine | #F28500 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=EEE600&style=for-the-badge) | Titanium yellow | #EEE600 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=EFCC00&style=for-the-badge) | Yellow Munsell | #EFCC00 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D3212D&style=for-the-badge) | Amaranth red | #D3212D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DA1884&style=for-the-badge) | Barbie Pink | #DA1884 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=5072A7&style=for-the-badge) | Blue yonder | #5072A7 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=246BCE&style=for-the-badge) | Celtic blue | #246BCE |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=1DACD6&style=for-the-badge) | Cerulean Crayola | #1DACD6 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AB4B52&style=for-the-badge) | English red | #AB4B52 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F400A1&style=for-the-badge) | Fashion fuchsia | #F400A1 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C72C48&style=for-the-badge) | French raspberry | #C72C48 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E49B0F&style=for-the-badge) | Gamboge | #E49B0F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F400A1&style=for-the-badge) | Hollywood cerise | #F400A1 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B3446C&style=for-the-badge) | Irresistible | #B3446C |
@@ -383,7 +321,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9E5E6F&style=for-the-badge) | Rose Dust | #9E5E6F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AB4E52&style=for-the-badge) | Rose vale | #AB4E52 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=7851A9&style=for-the-badge) | Royal purple | #7851A9 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=679267&style=for-the-badge) | Russian green | #679267 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A7FC00&style=for-the-badge) | Spring bud | #A7FC00 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4682B4&style=for-the-badge) | Steel blue | #4682B4 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=738678&style=for-the-badge) | Xanadu | #738678 |
@@ -399,11 +336,8 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD7F32&style=for-the-badge) | Bronze | #CD7F32 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=5F9EA0&style=for-the-badge) | Cadet blue | #5F9EA0 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFF600&style=for-the-badge) | Cadmium yellow | #FFF600 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A67B5B&style=for-the-badge) | CafÃ© au lait | #A67B5B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFEF00&style=for-the-badge) | Canary yellow | #FFEF00 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00BFFF&style=for-the-badge) | Capri | #00BFFF |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DFFF00&style=for-the-badge) | Chartreuse traditional | #DFFF00 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=7FFF00&style=for-the-badge) | Chartreuse web | #7FFF00 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFB200&style=for-the-badge) | Chinese yellow | #FFB200 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFA700&style=for-the-badge) | Chrome yellow | #FFA700 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=996666&style=for-the-badge) | Copper rose | #996666 |
@@ -419,7 +353,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=BF00FF&style=for-the-badge) | Electric purple | #BF00FF |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8F00FF&style=for-the-badge) | Electric violet | #8F00FF |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00FF40&style=for-the-badge) | Erin | #00FF40 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A67B5B&style=for-the-badge) | French beige | #A67B5B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF00FF&style=for-the-badge) | Fuchsia | #FF00FF |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFDF00&style=for-the-badge) | Golden yellow | #FFDF00 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=808080&style=for-the-badge) | Gray web | #808080 |
@@ -438,7 +371,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF5800&style=for-the-badge) | Orange Pantone | #FF5800 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFA500&style=for-the-badge) | Orange web | #FFA500 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF9F00&style=for-the-badge) | Orange peel | #FF9F00 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CC3333&style=for-the-badge) | Persian red | #CC3333 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DF00FF&style=for-the-badge) | Phlox | #DF00FF |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=5DA493&style=for-the-badge) | Polished Pine | #5DA493 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFEF00&style=for-the-badge) | Process yellow | #FFEF00 |
@@ -511,7 +443,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E03C31&style=for-the-badge) | CG red | #E03C31 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=98817B&style=for-the-badge) | Cinereous | #98817B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF1493&style=for-the-badge) | Deep pink | #FF1493 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CC474B&style=for-the-badge) | English vermillion | #CC474B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C154C1&style=for-the-badge) | Fuchsia Crayola | #C154C1 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=446CCF&style=for-the-badge) | Han blue | #446CCF |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=5218FA&style=for-the-badge) | Han purple | #5218FA |
@@ -533,7 +464,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=ED2939&style=for-the-badge) | Imperial red | #ED2939 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=48D1CC&style=for-the-badge) | Medium turquoise | #48D1CC |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C8509B&style=for-the-badge) | Mulberry Crayola | #C8509B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=50C878&style=for-the-badge) | Paris Green | #50C878 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F58025&style=for-the-badge) | Princeton orange | #F58025 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF7518&style=for-the-badge) | Pumpkin | #FF7518 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=ED2939&style=for-the-badge) | Red Pantone | #ED2939 |
@@ -553,24 +483,20 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3E8EDE&style=for-the-badge) | Tufts blue | #3E8EDE |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=40E0D0&style=for-the-badge) | Turquoise | #40E0D0 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C5B358&style=for-the-badge) | Vegas gold | #C5B358 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3C69E7&style=for-the-badge) | Bluetiful | #3C69E7 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E63E62&style=for-the-badge) | Paradise pink | #E63E62 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F4C430&style=for-the-badge) | Saffron | #F4C430 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F1B42F&style=for-the-badge) | Xanthous | #F1B42F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=56A0D3&style=for-the-badge) | Carolina blue | #56A0D3 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=BDB76B&style=for-the-badge) | Dark khaki | #BDB76B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A7F432&style=for-the-badge) | Green Lizard | #A7F432 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD5C5C&style=for-the-badge) | Indian red | #CD5C5C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=74C365&style=for-the-badge) | Mantis | #74C365 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=BA55D3&style=for-the-badge) | Medium orchid | #BA55D3 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D65282&style=for-the-badge) | Mystic | #D65282 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FE28A2&style=for-the-badge) | Persian rose | #FE28A2 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=6A5ACD&style=for-the-badge) | Slate blue | #6A5ACD |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=87FF2A&style=for-the-badge) | Spring Frost | #87FF2A |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C19A6B&style=for-the-badge) | Camel | #C19A6B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD607E&style=for-the-badge) | Cinnamon Satin | #CD607E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C19A6B&style=for-the-badge) | Desert | #C19A6B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C19A6B&style=for-the-badge) | Fallow | #C19A6B |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=ADFF2F&style=for-the-badge) | Green yellow | #ADFF2F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A99A86&style=for-the-badge) | Grullo | #A99A86 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C19A6B&style=for-the-badge) | Lion | #C19A6B |
@@ -589,14 +515,10 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FAFA37&style=for-the-badge) | Maximum yellow | #FAFA37 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=BBB477&style=for-the-badge) | Misty moss | #BBB477 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8DA399&style=for-the-badge) | Morning blue | #8DA399 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D99058&style=for-the-badge) | Persian orange | #D99058 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF355E&style=for-the-badge) | Radical Red | #FF355E |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=989898&style=for-the-badge) | Spanish gray | #989898 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFCC33&style=for-the-badge) | Sunglow | #FFCC33 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FEFE33&style=for-the-badge) | Yellow RYB | #FEFE33 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=8C92AC&style=for-the-badge) | Cool grey | #8C92AC |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B48395&style=for-the-badge) | English lavender | #B48395 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=9EFD38&style=for-the-badge) | French lime | #9EFD38 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF7538&style=for-the-badge) | Orange Crayola | #FF7538 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FA5B3D&style=for-the-badge) | Orange soda | #FA5B3D |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=93C572&style=for-the-badge) | Pistachio | #93C572 |
@@ -606,8 +528,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4166F5&style=for-the-badge) | Ultramarine blue | #4166F5 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DE5D83&style=for-the-badge) | Blush | #DE5D83 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E97451&style=for-the-badge) | Burnt sienna | #E97451 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FD3F92&style=for-the-badge) | French fuchsia | #FD3F92 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E3A857&style=for-the-badge) | Indian yellow | #E3A857 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F2C649&style=for-the-badge) | Maize Crayola | #F2C649 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F37A48&style=for-the-badge) | Mandarin | #F37A48 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B784A7&style=for-the-badge) | Opera mauve | #B784A7 |
@@ -615,13 +535,11 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E3AB57&style=for-the-badge) | Sunray | #E3AB57 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CF6BA9&style=for-the-badge) | Super pink | #CF6BA9 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E2725B&style=for-the-badge) | Terra cotta | #E2725B |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B284BE&style=for-the-badge) | African violet | #B284BE |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD9575&style=for-the-badge) | Antique brass | #CD9575 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=91A3B0&style=for-the-badge) | Cadet grey | #91A3B0 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DA8A67&style=for-the-badge) | Copper Crayola | #DA8A67 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E1A95F&style=for-the-badge) | Earth yellow | #E1A95F |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C2B280&style=for-the-badge) | Ecru | #C2B280 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F64A8A&style=for-the-badge) | French rose | #F64A8A |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AA98A9&style=for-the-badge) | Heliotrope gray | #AA98A9 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=71A6D2&style=for-the-badge) | Iceberg | #71A6D2 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=979AAA&style=for-the-badge) | Manatee | #979AAA |
@@ -637,7 +555,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FB4D46&style=for-the-badge) | Tart Orange | #FB4D46 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF43A4&style=for-the-badge) | Wild Strawberry | #FF43A4 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFAE42&style=for-the-badge) | Yellow Orange | #FFAE42 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D473D4&style=for-the-badge) | French mauve | #D473D4 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AB92B3&style=for-the-badge) | Glossy grape | #AB92B3 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF496C&style=for-the-badge) | Infrared | #FF496C |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AE98AA&style=for-the-badge) | Lilac Luster | #AE98AA |
@@ -710,7 +627,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=66FF66&style=for-the-badge) | Screamin Green | #66FF66 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DEAA88&style=for-the-badge) | Tumbleweed | #DEAA88 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFFF66&style=for-the-badge) | Unmellow yellow | #FFFF66 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FD6C9E&style=for-the-badge) | French pink | #FD6C9E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF69B4&style=for-the-badge) | Hot pink | #FF69B4 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=C8A2C8&style=for-the-badge) | Lilac | #C8A2C8 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A8C3BC&style=for-the-badge) | Opal | #A8C3BC |
@@ -735,7 +651,6 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DF73FF&style=for-the-badge) | Heliotrope | #DF73FF |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F8DE7E&style=for-the-badge) | Jasmine | #F8DE7E |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F8DE7E&style=for-the-badge) | Mellow yellow | #F8DE7E |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F77FBE&style=for-the-badge) | Persian pink | #F77FBE |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=87CEEB&style=for-the-badge) | Sky blue | #87CEEB |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A0D6B4&style=for-the-badge) | Turquoise green | #A0D6B4 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=89CFF0&style=for-the-badge) | Baby blue | #89CFF0 |
@@ -810,12 +725,10 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFE5B4&style=for-the-badge) | Peach | #FFE5B4 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=E8CCD7&style=for-the-badge) | Queen pink | #E8CCD7 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=D0F0C0&style=for-the-badge) | Tea green | #D0F0C0 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F4C2C2&style=for-the-badge) | Baby pink | #F4C2C2 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FAF0BE&style=for-the-badge) | Blond | #FAF0BE |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=DCDCDC&style=for-the-badge) | Gainsboro | #DCDCDC |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFB6C1&style=for-the-badge) | Light pink | #FFB6C1 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFDAB9&style=for-the-badge) | Peach puff | #FFDAB9 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F7BFBE&style=for-the-badge) | Spanish pink | #F7BFBE |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=F4C2C2&style=for-the-badge) | Tea rose | #F4C2C2 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=EFDECD&style=for-the-badge) | Almond | #EFDECD |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFBCD9&style=for-the-badge) | Cotton candy | #FFBCD9 |
