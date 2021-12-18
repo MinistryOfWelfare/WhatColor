@@ -982,4 +982,4 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | 972 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2E5090&style=for-the-badge) | YInMn Blue | #2E5090 |
 | 973 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0014A8&style=for-the-badge) | Zaffre | #0014A8 |
 | 974 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=39A78E&style=for-the-badge)  | Zomp | #39A78E |
-|---- |  ------------------------------------------------------------------------------------------------------- |  ------------ |  ------ |  ----- |
+| ---- |  -------- |  ---------- |  -------- |
