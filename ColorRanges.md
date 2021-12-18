@@ -7,7 +7,7 @@ These are in darkest first order but some of them may require sorting them a bit
 Crime coefficient is undecided until possible doubles are pruned and the listing is sorted in darkest first per color. 
 
 | Pos | Color  |  Name  |  Hex Code |  Coefficient | 
-|---- |  ------------------------------------------------------------------------------------------------------- |  ------------ |  ------ |  ----- |
+|---- |  --------- |  ------------ |  ------ |  ----- |
 | 001 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=0048BA&style=for-the-badge) | Absolute Zero | #0048BA | |
 | 002 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=B0BF1A&style=for-the-badge) | Acid green | #B0BF1A | |
 | 003 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=7CB9E8&style=for-the-badge) | Aero | #7CB9E8 | |
