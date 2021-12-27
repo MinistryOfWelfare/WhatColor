@@ -1,0 +1,3377 @@
+﻿[
+    {
+        "color": "Black",
+        "hex": "#000000",
+        "coefficient": 674
+    },
+    {
+        "color": "Smoky black",
+        "hex": "#100C08",
+        "coefficient": 673
+    },
+    {
+        "color": "Black chocolate",
+        "hex": "#1B1811",
+        "coefficient": 672
+    },
+    {
+        "color": "Dark green",
+        "hex": "#013220",
+        "coefficient": 671
+    },
+    {
+        "color": "Eerie black",
+        "hex": "#1B1B1B",
+        "coefficient": 670
+    },
+    {
+        "color": "Black bean",
+        "hex": "#3D0C02",
+        "coefficient": 669
+    },
+    {
+        "color": "Rich black",
+        "hex": "#004040",
+        "coefficient": 668
+    },
+    {
+        "color": "Warm black",
+        "hex": "#004242",
+        "coefficient": 667
+    },
+    {
+        "color": "Phthalo green",
+        "hex": "#123524",
+        "coefficient": 666
+    },
+    {
+        "color": "Raisin black",
+        "hex": "#242124",
+        "coefficient": 665
+    },
+    {
+        "color": "Seal brown",
+        "hex": "#59260B",
+        "coefficient": 664
+    },
+    {
+        "color": "Charleston green",
+        "hex": "#232B2B",
+        "coefficient": 663
+    },
+    {
+        "color": "Dark purple",
+        "hex": "#301934",
+        "coefficient": 662
+    },
+    {
+        "color": "Oxblood",
+        "hex": "#4A0000",
+        "coefficient": 661
+    },
+    {
+        "color": "Dark sienna",
+        "hex": "#3C1414",
+        "coefficient": 660
+    },
+    {
+        "color": "Pine tree",
+        "hex": "#2A2F23",
+        "coefficient": 659
+    },
+    {
+        "color": "Prussian blue",
+        "hex": "#003153",
+        "coefficient": 658
+    },
+    {
+        "color": "Castleton green",
+        "hex": "#00563F",
+        "coefficient": 657
+    },
+    {
+        "color": "Bistre",
+        "hex": "#3D2B1F",
+        "coefficient": 656
+    },
+    {
+        "color": "Gunmetal",
+        "hex": "#2a3439",
+        "coefficient": 655
+    },
+    {
+        "color": "Blood red",
+        "hex": "#660000",
+        "coefficient": 654
+    },
+    {
+        "color": "Brunswick green",
+        "hex": "#1B4D3E",
+        "coefficient": 653
+    },
+    {
+        "color": "Rosewood",
+        "hex": "#65000B",
+        "coefficient": 652
+    },
+    {
+        "color": "Tyrian purple",
+        "hex": "#66023C",
+        "coefficient": 651
+    },
+    {
+        "color": "Black coffee",
+        "hex": "#3B2F2F",
+        "coefficient": 650
+    },
+    {
+        "color": "Bottle green",
+        "hex": "#006A4E",
+        "coefficient": 649
+    },
+    {
+        "color": "Cadmium green",
+        "hex": "#006B3C",
+        "coefficient": 648
+    },
+    {
+        "color": "Chocolate Cosmos",
+        "hex": "#58111A",
+        "coefficient": 647
+    },
+    {
+        "color": "Indigo dye",
+        "hex": "#00416A",
+        "coefficient": 646
+    },
+    {
+        "color": "Yale Blue",
+        "hex": "#00356B",
+        "coefficient": 645
+    },
+    {
+        "color": "Black olive",
+        "hex": "#3B3C36",
+        "coefficient": 644
+    },
+    {
+        "color": "Dartmouth green",
+        "hex": "#00703C",
+        "coefficient": 643
+    },
+    {
+        "color": "Kombu green",
+        "hex": "#354230",
+        "coefficient": 642
+    },
+    {
+        "color": "Old burgundy",
+        "hex": "#43302E",
+        "coefficient": 641
+    },
+    {
+        "color": "Onyx",
+        "hex": "#353839",
+        "coefficient": 640
+    },
+    {
+        "color": "Caput mortuum",
+        "hex": "#592720",
+        "coefficient": 639
+    },
+    {
+        "color": "Chocolate traditional",
+        "hex": "#7B3F00",
+        "coefficient": 638
+    },
+    {
+        "color": "Dark lava",
+        "hex": "#483C32",
+        "coefficient": 637
+    },
+    {
+        "color": "Pine green",
+        "hex": "#01796F",
+        "coefficient": 636
+    },
+    {
+        "color": "Taupe",
+        "hex": "#483C32",
+        "coefficient": 635
+    },
+    {
+        "color": "Barn red",
+        "hex": "#7C0A02",
+        "coefficient": 634
+    },
+    {
+        "color": "Burgundy",
+        "hex": "#800020",
+        "coefficient": 633
+    },
+    {
+        "color": "Generic viridian",
+        "hex": "#007F66",
+        "coefficient": 632
+    },
+    {
+        "color": "Green web",
+        "hex": "#008000",
+        "coefficient": 631
+    },
+    {
+        "color": "Maroon web",
+        "hex": "#800000",
+        "coefficient": 630
+    },
+    {
+        "color": "Navy blue",
+        "hex": "#000080",
+        "coefficient": 629
+    },
+    {
+        "color": "Olive",
+        "hex": "#808000",
+        "coefficient": 628
+    },
+    {
+        "color": "Patriarch",
+        "hex": "#800080",
+        "coefficient": 627
+    },
+    {
+        "color": "Purple web",
+        "hex": "#800080",
+        "coefficient": 626
+    },
+    {
+        "color": "Teal",
+        "hex": "#008080",
+        "coefficient": 625
+    },
+    {
+        "color": "Antique bronze",
+        "hex": "#665D1E",
+        "coefficient": 624
+    },
+    {
+        "color": "Avocado",
+        "hex": "#568203",
+        "coefficient": 623
+    },
+    {
+        "color": "Charcoal",
+        "hex": "#36454F",
+        "coefficient": 622
+    },
+    {
+        "color": "Dark brown",
+        "hex": "#654321",
+        "coefficient": 621
+    },
+    {
+        "color": "Indigo",
+        "hex": "#4B0082",
+        "coefficient": 620
+    },
+    {
+        "color": "Rifle green",
+        "hex": "#444C38",
+        "coefficient": 619
+    },
+    {
+        "color": "Sepia",
+        "hex": "#704214",
+        "coefficient": 618
+    },
+    {
+        "color": "Dark cyan",
+        "hex": "#008B8B",
+        "coefficient": 617
+    },
+    {
+        "color": "Dark magenta",
+        "hex": "#8B008B",
+        "coefficient": 616
+    },
+    {
+        "color": "Dark red",
+        "hex": "#8B0000",
+        "coefficient": 615
+    },
+    {
+        "color": "Field drab",
+        "hex": "#6C541E",
+        "coefficient": 614
+    },
+    {
+        "color": "Mardi Gras",
+        "hex": "#880085",
+        "coefficient": 613
+    },
+    {
+        "color": "Midnight blue",
+        "hex": "#191970",
+        "coefficient": 612
+    },
+    {
+        "color": "Phthalo blue",
+        "hex": "#000F89",
+        "coefficient": 611
+    },
+    {
+        "color": "Prune",
+        "hex": "#701C1C",
+        "coefficient": 610
+    },
+    {
+        "color": "Kobicha",
+        "hex": "#6B4423",
+        "coefficient": 609
+    },
+    {
+        "color": "Palatinate purple",
+        "hex": "#682860",
+        "coefficient": 608
+    },
+    {
+        "color": "Pansy purple",
+        "hex": "#78184A",
+        "coefficient": 607
+    },
+    {
+        "color": "Blue sapphire",
+        "hex": "#126180",
+        "coefficient": 606
+    },
+    {
+        "color": "Brown",
+        "hex": "#88540B",
+        "coefficient": 605
+    },
+    {
+        "color": "Carmine",
+        "hex": "#960018",
+        "coefficient": 604
+    },
+    {
+        "color": "Claret",
+        "hex": "#7F1734",
+        "coefficient": 603
+    },
+    {
+        "color": "Dark byzantium",
+        "hex": "#5D3954",
+        "coefficient": 602
+    },
+    {
+        "color": "Hunter green",
+        "hex": "#355E3B",
+        "coefficient": 601
+    },
+    {
+        "color": "Metallic Seaweed",
+        "hex": "#0A7E8C",
+        "coefficient": 600
+    },
+    {
+        "color": "Midnight",
+        "hex": "#702670",
+        "coefficient": 599
+    },
+    {
+        "color": "Byzantium",
+        "hex": "#702963",
+        "coefficient": 598
+    },
+    {
+        "color": "Green cyan",
+        "hex": "#009966",
+        "coefficient": 597
+    },
+    {
+        "color": "Old mauve",
+        "hex": "#673147",
+        "coefficient": 596
+    },
+    {
+        "color": "Russet",
+        "hex": "#80461B",
+        "coefficient": 595
+    },
+    {
+        "color": "USAFA blue",
+        "hex": "#004F98",
+        "coefficient": 594
+    },
+    {
+        "color": "Viridian green",
+        "hex": "#009698",
+        "coefficient": 593
+    },
+    {
+        "color": "Wine dregs",
+        "hex": "#673147",
+        "coefficient": 592
+    },
+    {
+        "color": "Antique ruby",
+        "hex": "#841B2D",
+        "coefficient": 591
+    },
+    {
+        "color": "Duke blue",
+        "hex": "#00009C",
+        "coefficient": 590
+    },
+    {
+        "color": "Green NCS",
+        "hex": "#009F6B",
+        "coefficient": 589
+    },
+    {
+        "color": "Kobe",
+        "hex": "#882D17",
+        "coefficient": 588
+    },
+    {
+        "color": "Saddle brown",
+        "hex": "#8B4513",
+        "coefficient": 587
+    },
+    {
+        "color": "Shamrock green",
+        "hex": "#009E60",
+        "coefficient": 586
+    },
+    {
+        "color": "Sienna",
+        "hex": "#882D17",
+        "coefficient": 585
+    },
+    {
+        "color": "CG blue",
+        "hex": "#007AA5",
+        "coefficient": 584
+    },
+    {
+        "color": "Eggplant",
+        "hex": "#614051",
+        "coefficient": 583
+    },
+    {
+        "color": "Flirt",
+        "hex": "#A2006D",
+        "coefficient": 582
+    },
+    {
+        "color": "Gold",
+        "hex": "#A57C00",
+        "coefficient": 581
+    },
+    {
+        "color": "Green pigment",
+        "hex": "#00A550",
+        "coefficient": 580
+    },
+    {
+        "color": "Sapphire blue",
+        "hex": "#0067A5",
+        "coefficient": 579
+    },
+    {
+        "color": "Wine",
+        "hex": "#722F37",
+        "coefficient": 578
+    },
+    {
+        "color": "Blue Pantone",
+        "hex": "#0018A8",
+        "coefficient": 577
+    },
+    {
+        "color": "Catawba",
+        "hex": "#703642",
+        "coefficient": 576
+    },
+    {
+        "color": "Celadon blue",
+        "hex": "#007BA7",
+        "coefficient": 575
+    },
+    {
+        "color": "Cerulean",
+        "hex": "#007BA7",
+        "coefficient": 574
+    },
+    {
+        "color": "Coffee",
+        "hex": "#6F4E37",
+        "coefficient": 573
+    },
+    {
+        "color": "Davys grey",
+        "hex": "#555555",
+        "coefficient": 572
+    },
+    {
+        "color": "Feldgrau",
+        "hex": "#4D5D53",
+        "coefficient": 571
+    },
+    {
+        "color": "Fuzzy Wuzzy",
+        "hex": "#87421F",
+        "coefficient": 570
+    },
+    {
+        "color": "Green Munsell",
+        "hex": "#00A877",
+        "coefficient": 569
+    },
+    {
+        "color": "Jade",
+        "hex": "#00A86B",
+        "coefficient": 568
+    },
+    {
+        "color": "Myrtle green",
+        "hex": "#317873",
+        "coefficient": 567
+    },
+    {
+        "color": "Sap green",
+        "hex": "#507D2A",
+        "coefficient": 566
+    },
+    {
+        "color": "Tuscan brown",
+        "hex": "#6F4E37",
+        "coefficient": 565
+    },
+    {
+        "color": "Umber",
+        "hex": "#635147",
+        "coefficient": 564
+    },
+    {
+        "color": "Windsor tan",
+        "hex": "#A75502",
+        "coefficient": 563
+    },
+    {
+        "color": "Zaffre",
+        "hex": "#0014A8",
+        "coefficient": 562
+    },
+    {
+        "color": "Bistre brown",
+        "hex": "#967117",
+        "coefficient": 561
+    },
+    {
+        "color": "Blue Munsell",
+        "hex": "#0093AF",
+        "coefficient": 560
+    },
+    {
+        "color": "Burnt umber",
+        "hex": "#8A3324",
+        "coefficient": 559
+    },
+    {
+        "color": "Cobalt blue",
+        "hex": "#0047AB",
+        "coefficient": 558
+    },
+    {
+        "color": "Drab",
+        "hex": "#967117",
+        "coefficient": 557
+    },
+    {
+        "color": "Ebony",
+        "hex": "#555D50",
+        "coefficient": 556
+    },
+    {
+        "color": "GO green",
+        "hex": "#00AB66",
+        "coefficient": 555
+    },
+    {
+        "color": "Golden brown",
+        "hex": "#996515",
+        "coefficient": 554
+    },
+    {
+        "color": "Green Pantone",
+        "hex": "#00AD43",
+        "coefficient": 553
+    },
+    {
+        "color": "Mode beige",
+        "hex": "#967117",
+        "coefficient": 552
+    },
+    {
+        "color": "Picotee blue",
+        "hex": "#2E2787",
+        "coefficient": 551
+    },
+    {
+        "color": "Rose ebony",
+        "hex": "#674846",
+        "coefficient": 550
+    },
+    {
+        "color": "Ruby red",
+        "hex": "#9B111E",
+        "coefficient": 549
+    },
+    {
+        "color": "Rufous",
+        "hex": "#A81C07",
+        "coefficient": 548
+    },
+    {
+        "color": "Sand dune",
+        "hex": "#967117",
+        "coefficient": 547
+    },
+    {
+        "color": "Slimy green",
+        "hex": "#299617",
+        "coefficient": 546
+    },
+    {
+        "color": "Bole",
+        "hex": "#79443B",
+        "coefficient": 545
+    },
+    {
+        "color": "Celadon green",
+        "hex": "#2F847C",
+        "coefficient": 544
+    },
+    {
+        "color": "Eminence",
+        "hex": "#6C3082",
+        "coefficient": 543
+    },
+    {
+        "color": "Jazzberry jam",
+        "hex": "#A50B5E",
+        "coefficient": 542
+    },
+    {
+        "color": "Maximum purple",
+        "hex": "#733380",
+        "coefficient": 541
+    },
+    {
+        "color": "Ming",
+        "hex": "#36747D",
+        "coefficient": 540
+    },
+    {
+        "color": "Olive Drab 3",
+        "hex": "#6B8E23",
+        "coefficient": 539
+    },
+    {
+        "color": "Violet RYB",
+        "hex": "#8601AF",
+        "coefficient": 538
+    },
+    {
+        "color": "Apple green",
+        "hex": "#8DB600",
+        "coefficient": 537
+    },
+    {
+        "color": "Cosmic cobalt",
+        "hex": "#2E2D88",
+        "coefficient": 536
+    },
+    {
+        "color": "Crimson UA",
+        "hex": "#9E1B32",
+        "coefficient": 535
+    },
+    {
+        "color": "Egyptian blue",
+        "hex": "#1034A6",
+        "coefficient": 534
+    },
+    {
+        "color": "Independence",
+        "hex": "#4C516D",
+        "coefficient": 533
+    },
+    {
+        "color": "Sea green",
+        "hex": "#2E8B57",
+        "coefficient": 532
+    },
+    {
+        "color": "Trypan Blue",
+        "hex": "#1C05B3",
+        "coefficient": 531
+    },
+    {
+        "color": "Absolute Zero",
+        "hex": "#0048BA",
+        "coefficient": 530
+    },
+    {
+        "color": "Blue NCS",
+        "hex": "#0087BD",
+        "coefficient": 529
+    },
+    {
+        "color": "Coyote brown",
+        "hex": "#81613C",
+        "coefficient": 528
+    },
+    {
+        "color": "Cyber grape",
+        "hex": "#58427C",
+        "coefficient": 527
+    },
+    {
+        "color": "Fern green",
+        "hex": "#4F7942",
+        "coefficient": 526
+    },
+    {
+        "color": "Maximum green",
+        "hex": "#5E8C31",
+        "coefficient": 525
+    },
+    {
+        "color": "Purple",
+        "hex": "#6A0DAD",
+        "coefficient": 524
+    },
+    {
+        "color": "Teal blue",
+        "hex": "#367588",
+        "coefficient": 523
+    },
+    {
+        "color": "Vivid burgundy",
+        "hex": "#9F1D35",
+        "coefficient": 522
+    },
+    {
+        "color": "YInMn Blue",
+        "hex": "#2E5090",
+        "coefficient": 521
+    },
+    {
+        "color": "Bdazzled blue",
+        "hex": "#2E5894",
+        "coefficient": 520
+    },
+    {
+        "color": "Black coral",
+        "hex": "#54626F",
+        "coefficient": 519
+    },
+    {
+        "color": "Dark goldenrod",
+        "hex": "#B8860B",
+        "coefficient": 518
+    },
+    {
+        "color": "Hookers green",
+        "hex": "#49796B",
+        "coefficient": 517
+    },
+    {
+        "color": "Lapis lazuli",
+        "hex": "#26619C",
+        "coefficient": 516
+    },
+    {
+        "color": "Mahogany",
+        "hex": "#C04000",
+        "coefficient": 515
+    },
+    {
+        "color": "Tiffany Blue",
+        "hex": "#0ABAB5",
+        "coefficient": 514
+    },
+    {
+        "color": "Tuscan red",
+        "hex": "#7C4848",
+        "coefficient": 513
+    },
+    {
+        "color": "Viridian",
+        "hex": "#40826D",
+        "coefficient": 512
+    },
+    {
+        "color": "Blue green",
+        "hex": "#0D98BA",
+        "coefficient": 511
+    },
+    {
+        "color": "Brandy",
+        "hex": "#87413F",
+        "coefficient": 510
+    },
+    {
+        "color": "Cadet",
+        "hex": "#536872",
+        "coefficient": 509
+    },
+    {
+        "color": "Chinese red",
+        "hex": "#AA381E",
+        "coefficient": 508
+    },
+    {
+        "color": "Citron",
+        "hex": "#9FA91F",
+        "coefficient": 507
+    },
+    {
+        "color": "Cordovan",
+        "hex": "#893F45",
+        "coefficient": 506
+    },
+    {
+        "color": "Green Crayola",
+        "hex": "#1CAC78",
+        "coefficient": 505
+    },
+    {
+        "color": "Green blue",
+        "hex": "#1164B4",
+        "coefficient": 504
+    },
+    {
+        "color": "Purple Munsell",
+        "hex": "#9F00C5",
+        "coefficient": 503
+    },
+    {
+        "color": "Quinacridone magenta",
+        "hex": "#8E3A59",
+        "coefficient": 502
+    },
+    {
+        "color": "Raw umber",
+        "hex": "#826644",
+        "coefficient": 501
+    },
+    {
+        "color": "Red NCS",
+        "hex": "#C40233",
+        "coefficient": 500
+    },
+    {
+        "color": "Rust",
+        "hex": "#B7410E",
+        "coefficient": 499
+    },
+    {
+        "color": "Sapphire",
+        "hex": "#0F52BA",
+        "coefficient": 498
+    },
+    {
+        "color": "Amaranth M&P",
+        "hex": "#9F2B68",
+        "coefficient": 497
+    },
+    {
+        "color": "Blue pigment",
+        "hex": "#333399",
+        "coefficient": 496
+    },
+    {
+        "color": "Burnt orange",
+        "hex": "#CC5500",
+        "coefficient": 495
+    },
+    {
+        "color": "Caribbean green",
+        "hex": "#00CC99",
+        "coefficient": 494
+    },
+    {
+        "color": "Carnelian",
+        "hex": "#B31B1B",
+        "coefficient": 493
+    },
+    {
+        "color": "Chestnut",
+        "hex": "#954535",
+        "coefficient": 492
+    },
+    {
+        "color": "Cornell red",
+        "hex": "#B31B1B",
+        "coefficient": 491
+    },
+    {
+        "color": "Granite gray",
+        "hex": "#676767",
+        "coefficient": 490
+    },
+    {
+        "color": "Medium blue",
+        "hex": "#0000CD",
+        "coefficient": 489
+    },
+    {
+        "color": "Paynes grey",
+        "hex": "#536878",
+        "coefficient": 488
+    },
+    {
+        "color": "Pictorial carmine",
+        "hex": "#C30B4E",
+        "coefficient": 487
+    },
+    {
+        "color": "Purple navy",
+        "hex": "#4E5180",
+        "coefficient": 486
+    },
+    {
+        "color": "Rebecca Purple",
+        "hex": "#663399",
+        "coefficient": 485
+    },
+    {
+        "color": "Sapphire Crayola",
+        "hex": "#2D5DA1",
+        "coefficient": 484
+    },
+    {
+        "color": "TennÃ© tawny",
+        "hex": "#CD5700",
+        "coefficient": 483
+    },
+    {
+        "color": "Upsdell red",
+        "hex": "#AE2029",
+        "coefficient": 482
+    },
+    {
+        "color": "Auburn",
+        "hex": "#A52A2A",
+        "coefficient": 481
+    },
+    {
+        "color": "Dark turquoise",
+        "hex": "#00CED1",
+        "coefficient": 480
+    },
+    {
+        "color": "Dark violet",
+        "hex": "#9400D3",
+        "coefficient": 479
+    },
+    {
+        "color": "Denim",
+        "hex": "#1560BD",
+        "coefficient": 478
+    },
+    {
+        "color": "Dim gray",
+        "hex": "#696969",
+        "coefficient": 477
+    },
+    {
+        "color": "Gold Fusion",
+        "hex": "#85754E",
+        "coefficient": 476
+    },
+    {
+        "color": "Kelly green",
+        "hex": "#4CBB17",
+        "coefficient": 475
+    },
+    {
+        "color": "May green",
+        "hex": "#4C9141",
+        "coefficient": 474
+    },
+    {
+        "color": "Plum",
+        "hex": "#8E4585",
+        "coefficient": 473
+    },
+    {
+        "color": "Rubine red",
+        "hex": "#D10056",
+        "coefficient": 472
+    },
+    {
+        "color": "True Blue",
+        "hex": "#2D68C4",
+        "coefficient": 471
+    },
+    {
+        "color": "Twilight lavender",
+        "hex": "#8A496B",
+        "coefficient": 470
+    },
+    {
+        "color": "Venetian red",
+        "hex": "#C80815",
+        "coefficient": 469
+    },
+    {
+        "color": "Violet crayola",
+        "hex": "#963D7F",
+        "coefficient": 468
+    },
+    {
+        "color": "Alloy orange",
+        "hex": "#C46210",
+        "coefficient": 467
+    },
+    {
+        "color": "Carmine M&P",
+        "hex": "#D70040",
+        "coefficient": 466
+    },
+    {
+        "color": "Denim blue",
+        "hex": "#2243B6",
+        "coefficient": 465
+    },
+    {
+        "color": "Firebrick",
+        "hex": "#B22222",
+        "coefficient": 464
+    },
+    {
+        "color": "Jungle green",
+        "hex": "#29AB87",
+        "coefficient": 463
+    },
+    {
+        "color": "Metallic Sunburst",
+        "hex": "#9C7C38",
+        "coefficient": 462
+    },
+    {
+        "color": "Queen blue",
+        "hex": "#436B95",
+        "coefficient": 461
+    },
+    {
+        "color": "Rosso corsa",
+        "hex": "#D40000",
+        "coefficient": 460
+    },
+    {
+        "color": "Sheen green",
+        "hex": "#8FD400",
+        "coefficient": 459
+    },
+    {
+        "color": "Sinopia",
+        "hex": "#CB410B",
+        "coefficient": 458
+    },
+    {
+        "color": "Syracuse Orange",
+        "hex": "#D44500",
+        "coefficient": 457
+    },
+    {
+        "color": "Acid green",
+        "hex": "#B0BF1A",
+        "coefficient": 456
+    },
+    {
+        "color": "Deep taupe",
+        "hex": "#7E5E60",
+        "coefficient": 455
+    },
+    {
+        "color": "Harvest gold",
+        "hex": "#DA9100",
+        "coefficient": 454
+    },
+    {
+        "color": "Middle green",
+        "hex": "#4D8C57",
+        "coefficient": 453
+    },
+    {
+        "color": "Razzmic Berry",
+        "hex": "#8D4E85",
+        "coefficient": 452
+    },
+    {
+        "color": "Red violet",
+        "hex": "#C71585",
+        "coefficient": 451
+    },
+    {
+        "color": "Sweet Brown",
+        "hex": "#A83731",
+        "coefficient": 450
+    },
+    {
+        "color": "Cardinal",
+        "hex": "#C41E3A",
+        "coefficient": 449
+    },
+    {
+        "color": "Green RYB",
+        "hex": "#66B032",
+        "coefficient": 448
+    },
+    {
+        "color": "Lava",
+        "hex": "#CF1020",
+        "coefficient": 447
+    },
+    {
+        "color": "Old lavender",
+        "hex": "#796878",
+        "coefficient": 446
+    },
+    {
+        "color": "Rose red",
+        "hex": "#C21E56",
+        "coefficient": 445
+    },
+    {
+        "color": "Sugar Plum",
+        "hex": "#914E75",
+        "coefficient": 444
+    },
+    {
+        "color": "Zomp",
+        "hex": "#39A78E",
+        "coefficient": 443
+    },
+    {
+        "color": "Bright maroon",
+        "hex": "#C32148",
+        "coefficient": 442
+    },
+    {
+        "color": "Cadmium red",
+        "hex": "#E30022",
+        "coefficient": 441
+    },
+    {
+        "color": "Cerulean blue",
+        "hex": "#2A52BE",
+        "coefficient": 440
+    },
+    {
+        "color": "Fandango",
+        "hex": "#B53389",
+        "coefficient": 439
+    },
+    {
+        "color": "Fulvous",
+        "hex": "#E48400",
+        "coefficient": 438
+    },
+    {
+        "color": "Magenta haze",
+        "hex": "#9F4576",
+        "coefficient": 437
+    },
+    {
+        "color": "Malachite",
+        "hex": "#0BDA51",
+        "coefficient": 436
+    },
+    {
+        "color": "Maroon Crayola",
+        "hex": "#C32148",
+        "coefficient": 435
+    },
+    {
+        "color": "Medium carmine",
+        "hex": "#AF4035",
+        "coefficient": 434
+    },
+    {
+        "color": "Nickel",
+        "hex": "#727472",
+        "coefficient": 433
+    },
+    {
+        "color": "Pacific blue",
+        "hex": "#1CA9C9",
+        "coefficient": 432
+    },
+    {
+        "color": "Red purple",
+        "hex": "#E40078",
+        "coefficient": 431
+    },
+    {
+        "color": "Shadow",
+        "hex": "#8A795D",
+        "coefficient": 430
+    },
+    {
+        "color": "Violet blue",
+        "hex": "#324AB2",
+        "coefficient": 429
+    },
+    {
+        "color": "Weezy Blue",
+        "hex": "#189BCC",
+        "coefficient": 428
+    },
+    {
+        "color": "Antique fuchsia",
+        "hex": "#915C83",
+        "coefficient": 427
+    },
+    {
+        "color": "Bitter lemon",
+        "hex": "#CAE00D",
+        "coefficient": 426
+    },
+    {
+        "color": "Chinese violet",
+        "hex": "#856088",
+        "coefficient": 425
+    },
+    {
+        "color": "Copper",
+        "hex": "#B87333",
+        "coefficient": 424
+    },
+    {
+        "color": "Cyan process",
+        "hex": "#00B7EB",
+        "coefficient": 423
+    },
+    {
+        "color": "Keppel",
+        "hex": "#3AB09E",
+        "coefficient": 422
+    },
+    {
+        "color": "Lemon curry",
+        "hex": "#CCA01D",
+        "coefficient": 421
+    },
+    {
+        "color": "Magenta dye",
+        "hex": "#CA1F7B",
+        "coefficient": 420
+    },
+    {
+        "color": "Mountain Meadow",
+        "hex": "#30BA8F",
+        "coefficient": 419
+    },
+    {
+        "color": "Persimmon",
+        "hex": "#EC5800",
+        "coefficient": 418
+    },
+    {
+        "color": "Rose taupe",
+        "hex": "#905D5D",
+        "coefficient": 417
+    },
+    {
+        "color": "Steel Teal",
+        "hex": "#5F8A8B",
+        "coefficient": 416
+    },
+    {
+        "color": "Byzantine",
+        "hex": "#BD33A4",
+        "coefficient": 415
+    },
+    {
+        "color": "Chocolate web",
+        "hex": "#D2691E",
+        "coefficient": 414
+    },
+    {
+        "color": "Citrine",
+        "hex": "#E4D00A",
+        "coefficient": 413
+    },
+    {
+        "color": "Cocoa brown",
+        "hex": "#D2691E",
+        "coefficient": 412
+    },
+    {
+        "color": "Crimson",
+        "hex": "#DC143C",
+        "coefficient": 411
+    },
+    {
+        "color": "Dogwood rose",
+        "hex": "#D71868",
+        "coefficient": 410
+    },
+    {
+        "color": "Mauve taupe",
+        "hex": "#915F6D",
+        "coefficient": 409
+    },
+    {
+        "color": "Mint",
+        "hex": "#3EB489",
+        "coefficient": 408
+    },
+    {
+        "color": "Mystic maroon",
+        "hex": "#AD4379",
+        "coefficient": 407
+    },
+    {
+        "color": "Ochre",
+        "hex": "#CC7722",
+        "coefficient": 406
+    },
+    {
+        "color": "Raspberry",
+        "hex": "#E30B5D",
+        "coefficient": 405
+    },
+    {
+        "color": "Ruby",
+        "hex": "#E0115F",
+        "coefficient": 404
+    },
+    {
+        "color": "Safety yellow",
+        "hex": "#EED202",
+        "coefficient": 403
+    },
+    {
+        "color": "Tangerine",
+        "hex": "#F28500",
+        "coefficient": 402
+    },
+    {
+        "color": "Amaranth red",
+        "hex": "#D3212D",
+        "coefficient": 401
+    },
+    {
+        "color": "Blue yonder",
+        "hex": "#5072A7",
+        "coefficient": 400
+    },
+    {
+        "color": "Celtic blue",
+        "hex": "#246BCE",
+        "coefficient": 399
+    },
+    {
+        "color": "Cerulean Crayola",
+        "hex": "#1DACD6",
+        "coefficient": 398
+    },
+    {
+        "color": "Fashion fuchsia",
+        "hex": "#F400A1",
+        "coefficient": 397
+    },
+    {
+        "color": "Gamboge",
+        "hex": "#E49B0F",
+        "coefficient": 396
+    },
+    {
+        "color": "Hollywood cerise",
+        "hex": "#F400A1",
+        "coefficient": 395
+    },
+    {
+        "color": "Irresistible",
+        "hex": "#B3446C",
+        "coefficient": 394
+    },
+    {
+        "color": "Moss green",
+        "hex": "#8A9A5B",
+        "coefficient": 393
+    },
+    {
+        "color": "Ocean Blue",
+        "hex": "#4F42B5",
+        "coefficient": 392
+    },
+    {
+        "color": "Raspberry rose",
+        "hex": "#B3446C",
+        "coefficient": 391
+    },
+    {
+        "color": "Redwood",
+        "hex": "#A45A52",
+        "coefficient": 390
+    },
+    {
+        "color": "Turtle green",
+        "hex": "#8A9A5B",
+        "coefficient": 389
+    },
+    {
+        "color": "Verdigris",
+        "hex": "#43B3AE",
+        "coefficient": 388
+    },
+    {
+        "color": "Vermilion",
+        "hex": "#D9381E",
+        "coefficient": 387
+    },
+    {
+        "color": "Xanthic",
+        "hex": "#EEED09",
+        "coefficient": 386
+    },
+    {
+        "color": "Brown sugar",
+        "hex": "#AF6E4D",
+        "coefficient": 385
+    },
+    {
+        "color": "China rose",
+        "hex": "#A8516E",
+        "coefficient": 384
+    },
+    {
+        "color": "Golden poppy",
+        "hex": "#FCC200",
+        "coefficient": 383
+    },
+    {
+        "color": "Goldenrod",
+        "hex": "#DAA520",
+        "coefficient": 382
+    },
+    {
+        "color": "Lawn green",
+        "hex": "#7CFC00",
+        "coefficient": 381
+    },
+    {
+        "color": "Liberty",
+        "hex": "#545AA7",
+        "coefficient": 380
+    },
+    {
+        "color": "Maximum red",
+        "hex": "#D92121",
+        "coefficient": 379
+    },
+    {
+        "color": "Plump Purple",
+        "hex": "#5946B2",
+        "coefficient": 378
+    },
+    {
+        "color": "Purpureus",
+        "hex": "#9A4EAE",
+        "coefficient": 377
+    },
+    {
+        "color": "Rose Dust",
+        "hex": "#9E5E6F",
+        "coefficient": 376
+    },
+    {
+        "color": "Rose vale",
+        "hex": "#AB4E52",
+        "coefficient": 375
+    },
+    {
+        "color": "Royal purple",
+        "hex": "#7851A9",
+        "coefficient": 374
+    },
+    {
+        "color": "Spring bud",
+        "hex": "#A7FC00",
+        "coefficient": 373
+    },
+    {
+        "color": "Steel blue",
+        "hex": "#4682B4",
+        "coefficient": 372
+    },
+    {
+        "color": "Xanadu",
+        "hex": "#738678",
+        "coefficient": 371
+    },
+    {
+        "color": "Amber",
+        "hex": "#FFBF00",
+        "coefficient": 370
+    },
+    {
+        "color": "Amber SAE/ECE",
+        "hex": "#FF7E00",
+        "coefficient": 369
+    },
+    {
+        "color": "Aqua",
+        "hex": "#00FFFF",
+        "coefficient": 368
+    },
+    {
+        "color": "Aureolin",
+        "hex": "#FDEE00",
+        "coefficient": 367
+    },
+    {
+        "color": "Azure",
+        "hex": "#007FFF",
+        "coefficient": 366
+    },
+    {
+        "color": "Bitter lime",
+        "hex": "#BFFF00",
+        "coefficient": 365
+    },
+    {
+        "color": "Blue",
+        "hex": "#0000FF",
+        "coefficient": 364
+    },
+    {
+        "color": "Blue RYB",
+        "hex": "#0247FE",
+        "coefficient": 363
+    },
+    {
+        "color": "Bright green",
+        "hex": "#66FF00",
+        "coefficient": 362
+    },
+    {
+        "color": "Bronze",
+        "hex": "#CD7F32",
+        "coefficient": 361
+    },
+    {
+        "color": "Cadet blue",
+        "hex": "#5F9EA0",
+        "coefficient": 360
+    },
+    {
+        "color": "Cadmium yellow",
+        "hex": "#FFF600",
+        "coefficient": 359
+    },
+    {
+        "color": "Canary yellow",
+        "hex": "#FFEF00",
+        "coefficient": 358
+    },
+    {
+        "color": "Capri",
+        "hex": "#00BFFF",
+        "coefficient": 357
+    },
+    {
+        "color": "Chinese yellow",
+        "hex": "#FFB200",
+        "coefficient": 356
+    },
+    {
+        "color": "Chrome yellow",
+        "hex": "#FFA700",
+        "coefficient": 355
+    },
+    {
+        "color": "Copper rose",
+        "hex": "#996666",
+        "coefficient": 354
+    },
+    {
+        "color": "Coquelicot",
+        "hex": "#FF3800",
+        "coefficient": 353
+    },
+    {
+        "color": "Cyan",
+        "hex": "#00FFFF",
+        "coefficient": 352
+    },
+    {
+        "color": "Cyber yellow",
+        "hex": "#FFD300",
+        "coefficient": 351
+    },
+    {
+        "color": "Dark orange",
+        "hex": "#FF8C00",
+        "coefficient": 350
+    },
+    {
+        "color": "Dark orchid",
+        "hex": "#9932CC",
+        "coefficient": 349
+    },
+    {
+        "color": "Deep chestnut",
+        "hex": "#B94E48",
+        "coefficient": 348
+    },
+    {
+        "color": "Electric green",
+        "hex": "#00FF00",
+        "coefficient": 347
+    },
+    {
+        "color": "Electric indigo",
+        "hex": "#6F00FF",
+        "coefficient": 346
+    },
+    {
+        "color": "Electric lime",
+        "hex": "#CCFF00",
+        "coefficient": 345
+    },
+    {
+        "color": "Electric purple",
+        "hex": "#BF00FF",
+        "coefficient": 344
+    },
+    {
+        "color": "Electric violet",
+        "hex": "#8F00FF",
+        "coefficient": 343
+    },
+    {
+        "color": "Erin",
+        "hex": "#00FF40",
+        "coefficient": 342
+    },
+    {
+        "color": "Fuchsia",
+        "hex": "#FF00FF",
+        "coefficient": 341
+    },
+    {
+        "color": "Golden yellow",
+        "hex": "#FFDF00",
+        "coefficient": 340
+    },
+    {
+        "color": "Gray web",
+        "hex": "#808080",
+        "coefficient": 339
+    },
+    {
+        "color": "Green",
+        "hex": "#00FF00",
+        "coefficient": 338
+    },
+    {
+        "color": "Harlequin",
+        "hex": "#3FFF00",
+        "coefficient": 337
+    },
+    {
+        "color": "Heat Wave",
+        "hex": "#FF7A00",
+        "coefficient": 336
+    },
+    {
+        "color": "Lemon",
+        "hex": "#FFF700",
+        "coefficient": 335
+    },
+    {
+        "color": "Lemon glacier",
+        "hex": "#FDFF00",
+        "coefficient": 334
+    },
+    {
+        "color": "Lime green",
+        "hex": "#32CD32",
+        "coefficient": 333
+    },
+    {
+        "color": "Madder Lake",
+        "hex": "#CC3336",
+        "coefficient": 332
+    },
+    {
+        "color": "Magenta",
+        "hex": "#FF00FF",
+        "coefficient": 331
+    },
+    {
+        "color": "Magenta process",
+        "hex": "#FF0090",
+        "coefficient": 330
+    },
+    {
+        "color": "Mango",
+        "hex": "#FDBE02",
+        "coefficient": 329
+    },
+    {
+        "color": "Middle yellow",
+        "hex": "#FFEB00",
+        "coefficient": 328
+    },
+    {
+        "color": "Orange",
+        "hex": "#FF7F00",
+        "coefficient": 327
+    },
+    {
+        "color": "Orange Pantone",
+        "hex": "#FF5800",
+        "coefficient": 326
+    },
+    {
+        "color": "Orange web",
+        "hex": "#FFA500",
+        "coefficient": 325
+    },
+    {
+        "color": "Orange peel",
+        "hex": "#FF9F00",
+        "coefficient": 324
+    },
+    {
+        "color": "Phlox",
+        "hex": "#DF00FF",
+        "coefficient": 323
+    },
+    {
+        "color": "Polished Pine",
+        "hex": "#5DA493",
+        "coefficient": 322
+    },
+    {
+        "color": "Process yellow",
+        "hex": "#FFEF00",
+        "coefficient": 321
+    },
+    {
+        "color": "Psychedelic purple",
+        "hex": "#DF00FF",
+        "coefficient": 320
+    },
+    {
+        "color": "Red",
+        "hex": "#FF0000",
+        "coefficient": 319
+    },
+    {
+        "color": "Rose",
+        "hex": "#FF007F",
+        "coefficient": 318
+    },
+    {
+        "color": "Safety orange",
+        "hex": "#FF7800",
+        "coefficient": 317
+    },
+    {
+        "color": "Scarlet",
+        "hex": "#FF2400",
+        "coefficient": 316
+    },
+    {
+        "color": "Selective yellow",
+        "hex": "#FFBA00",
+        "coefficient": 315
+    },
+    {
+        "color": "Sizzling Sunrise",
+        "hex": "#FFDB00",
+        "coefficient": 314
+    },
+    {
+        "color": "Slate gray",
+        "hex": "#708090",
+        "coefficient": 313
+    },
+    {
+        "color": "Spring green",
+        "hex": "#00FF7F",
+        "coefficient": 312
+    },
+    {
+        "color": "Turquoise blue",
+        "hex": "#00FFEF",
+        "coefficient": 311
+    },
+    {
+        "color": "Tuscan tan",
+        "hex": "#A67B5B",
+        "coefficient": 310
+    },
+    {
+        "color": "Violet",
+        "hex": "#8F00FF",
+        "coefficient": 309
+    },
+    {
+        "color": "Vivid violet",
+        "hex": "#9F00FF",
+        "coefficient": 308
+    },
+    {
+        "color": "Volt",
+        "hex": "#CEFF00",
+        "coefficient": 307
+    },
+    {
+        "color": "Winter Sky",
+        "hex": "#FF007C",
+        "coefficient": 306
+    },
+    {
+        "color": "Yellow",
+        "hex": "#FFFF00",
+        "coefficient": 305
+    },
+    {
+        "color": "Yellow NCS",
+        "hex": "#FFD300",
+        "coefficient": 304
+    },
+    {
+        "color": "Yellow Pantone",
+        "hex": "#FEDF00",
+        "coefficient": 303
+    },
+    {
+        "color": "Yellow green",
+        "hex": "#9ACD32",
+        "coefficient": 302
+    },
+    {
+        "color": "Yellow Sunshine",
+        "hex": "#FFF700",
+        "coefficient": 301
+    },
+    {
+        "color": "Battleship grey",
+        "hex": "#848482",
+        "coefficient": 300
+    },
+    {
+        "color": "Flame",
+        "hex": "#E25822",
+        "coefficient": 299
+    },
+    {
+        "color": "Fuchsia purple",
+        "hex": "#CC397B",
+        "coefficient": 298
+    },
+    {
+        "color": "Rusty red",
+        "hex": "#DA2C43",
+        "coefficient": 297
+    },
+    {
+        "color": "Shiny Shamrock",
+        "hex": "#5FA778",
+        "coefficient": 296
+    },
+    {
+        "color": "Telemagenta",
+        "hex": "#CF3476",
+        "coefficient": 295
+    },
+    {
+        "color": "Chili red",
+        "hex": "#E23D28",
+        "coefficient": 294
+    },
+    {
+        "color": "Fluorescent blue",
+        "hex": "#15F4EE",
+        "coefficient": 293
+    },
+    {
+        "color": "Fuchsia rose",
+        "hex": "#C74375",
+        "coefficient": 292
+    },
+    {
+        "color": "Gold metallic",
+        "hex": "#D4AF37",
+        "coefficient": 291
+    },
+    {
+        "color": "Jonquil",
+        "hex": "#F4CA16",
+        "coefficient": 290
+    },
+    {
+        "color": "Marigold",
+        "hex": "#EAA221",
+        "coefficient": 289
+    },
+    {
+        "color": "Metallic gold",
+        "hex": "#D3AF37",
+        "coefficient": 288
+    },
+    {
+        "color": "Middle grey",
+        "hex": "#8B8680",
+        "coefficient": 287
+    },
+    {
+        "color": "Mikado yellow",
+        "hex": "#FFC40C",
+        "coefficient": 286
+    },
+    {
+        "color": "Ocean green",
+        "hex": "#48BF91",
+        "coefficient": 285
+    },
+    {
+        "color": "Old gold",
+        "hex": "#CFB53B",
+        "coefficient": 284
+    },
+    {
+        "color": "Purple Plum",
+        "hex": "#9C51B6",
+        "coefficient": 283
+    },
+    {
+        "color": "Razzmatazz",
+        "hex": "#E3256B",
+        "coefficient": 282
+    },
+    {
+        "color": "Red pigment",
+        "hex": "#ED1C24",
+        "coefficient": 281
+    },
+    {
+        "color": "Rocket metallic",
+        "hex": "#8A7F80",
+        "coefficient": 280
+    },
+    {
+        "color": "Rose madder",
+        "hex": "#E32636",
+        "coefficient": 279
+    },
+    {
+        "color": "Smitten",
+        "hex": "#C84186",
+        "coefficient": 278
+    },
+    {
+        "color": "Amaranth",
+        "hex": "#E52B50",
+        "coefficient": 277
+    },
+    {
+        "color": "Artichoke",
+        "hex": "#8F9779",
+        "coefficient": 276
+    },
+    {
+        "color": "Beaver",
+        "hex": "#9F8170",
+        "coefficient": 275
+    },
+    {
+        "color": "Blue violet",
+        "hex": "#8A2BE2",
+        "coefficient": 274
+    },
+    {
+        "color": "Brick red",
+        "hex": "#CB4154",
+        "coefficient": 273
+    },
+    {
+        "color": "Carrot orange",
+        "hex": "#ED9121",
+        "coefficient": 272
+    },
+    {
+        "color": "Cerise",
+        "hex": "#DE3163",
+        "coefficient": 271
+    },
+    {
+        "color": "Deep cerise",
+        "hex": "#DA3287",
+        "coefficient": 270
+    },
+    {
+        "color": "Mulberry",
+        "hex": "#C54B8C",
+        "coefficient": 269
+    },
+    {
+        "color": "Popstar",
+        "hex": "#BE4F62",
+        "coefficient": 268
+    },
+    {
+        "color": "Purple X11",
+        "hex": "#A020F0",
+        "coefficient": 267
+    },
+    {
+        "color": "Red Crayola",
+        "hex": "#EE204D",
+        "coefficient": 266
+    },
+    {
+        "color": "Red RYB",
+        "hex": "#FE2712",
+        "coefficient": 265
+    },
+    {
+        "color": "Rhythm",
+        "hex": "#777696",
+        "coefficient": 264
+    },
+    {
+        "color": "Taupe gray",
+        "hex": "#8B8589",
+        "coefficient": 263
+    },
+    {
+        "color": "Veronica",
+        "hex": "#A020F0",
+        "coefficient": 262
+    },
+    {
+        "color": "Arctic lime",
+        "hex": "#D0FF14",
+        "coefficient": 261
+    },
+    {
+        "color": "Asparagus",
+        "hex": "#87A96B",
+        "coefficient": 260
+    },
+    {
+        "color": "Burnished brown",
+        "hex": "#A17A74",
+        "coefficient": 259
+    },
+    {
+        "color": "Cedar Chest",
+        "hex": "#C95A49",
+        "coefficient": 258
+    },
+    {
+        "color": "CG red",
+        "hex": "#E03C31",
+        "coefficient": 257
+    },
+    {
+        "color": "Cinereous",
+        "hex": "#98817B",
+        "coefficient": 256
+    },
+    {
+        "color": "Fuchsia Crayola",
+        "hex": "#C154C1",
+        "coefficient": 255
+    },
+    {
+        "color": "Han blue",
+        "hex": "#446CCF",
+        "coefficient": 254
+    },
+    {
+        "color": "Han purple",
+        "hex": "#5218FA",
+        "coefficient": 253
+    },
+    {
+        "color": "Magenta Pantone",
+        "hex": "#D0417E",
+        "coefficient": 252
+    },
+    {
+        "color": "Maximum blue",
+        "hex": "#47ABCC",
+        "coefficient": 251
+    },
+    {
+        "color": "Neon green",
+        "hex": "#39FF14",
+        "coefficient": 250
+    },
+    {
+        "color": "Olive green",
+        "hex": "#B5B35C",
+        "coefficient": 249
+    },
+    {
+        "color": "Orange yellow",
+        "hex": "#F5BD1F",
+        "coefficient": 248
+    },
+    {
+        "color": "Pear",
+        "hex": "#D1E231",
+        "coefficient": 247
+    },
+    {
+        "color": "Ruber",
+        "hex": "#CE4676",
+        "coefficient": 246
+    },
+    {
+        "color": "Android green",
+        "hex": "#3DDC84",
+        "coefficient": 245
+    },
+    {
+        "color": "Bud green",
+        "hex": "#7BB661",
+        "coefficient": 244
+    },
+    {
+        "color": "Cadmium orange",
+        "hex": "#ED872D",
+        "coefficient": 243
+    },
+    {
+        "color": "Cinnabar",
+        "hex": "#E34234",
+        "coefficient": 242
+    },
+    {
+        "color": "Copper penny",
+        "hex": "#AD6F69",
+        "coefficient": 241
+    },
+    {
+        "color": "Emerald",
+        "hex": "#50C878",
+        "coefficient": 240
+    },
+    {
+        "color": "Glaucous",
+        "hex": "#6082B6",
+        "coefficient": 239
+    },
+    {
+        "color": "Imperial red",
+        "hex": "#ED2939",
+        "coefficient": 238
+    },
+    {
+        "color": "Medium turquoise",
+        "hex": "#48D1CC",
+        "coefficient": 237
+    },
+    {
+        "color": "Mulberry Crayola",
+        "hex": "#C8509B",
+        "coefficient": 236
+    },
+    {
+        "color": "Princeton orange",
+        "hex": "#F58025",
+        "coefficient": 235
+    },
+    {
+        "color": "Pumpkin",
+        "hex": "#FF7518",
+        "coefficient": 234
+    },
+    {
+        "color": "Red Pantone",
+        "hex": "#ED2939",
+        "coefficient": 233
+    },
+    {
+        "color": "Vermilion",
+        "hex": "#E34234",
+        "coefficient": 232
+    },
+    {
+        "color": "Blue Crayola",
+        "hex": "#1F75FE",
+        "coefficient": 231
+    },
+    {
+        "color": "Copper red",
+        "hex": "#CB6D51",
+        "coefficient": 230
+    },
+    {
+        "color": "Dodger blue",
+        "hex": "#1E90FF",
+        "coefficient": 229
+    },
+    {
+        "color": "Frostbite",
+        "hex": "#E936A7",
+        "coefficient": 228
+    },
+    {
+        "color": "Green Sheen",
+        "hex": "#6EAEA1",
+        "coefficient": 227
+    },
+    {
+        "color": "Hot magenta",
+        "hex": "#FF1DCE",
+        "coefficient": 226
+    },
+    {
+        "color": "Iris",
+        "hex": "#5A4FCF",
+        "coefficient": 225
+    },
+    {
+        "color": "Orange red",
+        "hex": "#FF681F",
+        "coefficient": 224
+    },
+    {
+        "color": "Pearly purple",
+        "hex": "#B768A2",
+        "coefficient": 223
+    },
+    {
+        "color": "Shadow blue",
+        "hex": "#778BA5",
+        "coefficient": 222
+    },
+    {
+        "color": "Tufts blue",
+        "hex": "#3E8EDE",
+        "coefficient": 221
+    },
+    {
+        "color": "Turquoise",
+        "hex": "#40E0D0",
+        "coefficient": 220
+    },
+    {
+        "color": "Vegas gold",
+        "hex": "#C5B358",
+        "coefficient": 219
+    },
+    {
+        "color": "Saffron",
+        "hex": "#F4C430",
+        "coefficient": 218
+    },
+    {
+        "color": "Xanthous",
+        "hex": "#F1B42F",
+        "coefficient": 217
+    },
+    {
+        "color": "Carolina blue",
+        "hex": "#56A0D3",
+        "coefficient": 216
+    },
+    {
+        "color": "Dark khaki",
+        "hex": "#BDB76B",
+        "coefficient": 215
+    },
+    {
+        "color": "Green Lizard",
+        "hex": "#A7F432",
+        "coefficient": 214
+    },
+    {
+        "color": "Mantis",
+        "hex": "#74C365",
+        "coefficient": 213
+    },
+    {
+        "color": "Medium orchid",
+        "hex": "#BA55D3",
+        "coefficient": 212
+    },
+    {
+        "color": "Mystic",
+        "hex": "#D65282",
+        "coefficient": 211
+    },
+    {
+        "color": "Slate blue",
+        "hex": "#6A5ACD",
+        "coefficient": 210
+    },
+    {
+        "color": "Spring Frost",
+        "hex": "#87FF2A",
+        "coefficient": 209
+    },
+    {
+        "color": "Camel",
+        "hex": "#C19A6B",
+        "coefficient": 208
+    },
+    {
+        "color": "Cinnamon Satin",
+        "hex": "#CD607E",
+        "coefficient": 207
+    },
+    {
+        "color": "Desert",
+        "hex": "#C19A6B",
+        "coefficient": 206
+    },
+    {
+        "color": "Green yellow",
+        "hex": "#ADFF2F",
+        "coefficient": 205
+    },
+    {
+        "color": "Grullo",
+        "hex": "#A99A86",
+        "coefficient": 204
+    },
+    {
+        "color": "Lion",
+        "hex": "#C19A6B",
+        "coefficient": 203
+    },
+    {
+        "color": "Majorelle blue",
+        "hex": "#6050DC",
+        "coefficient": 202
+    },
+    {
+        "color": "Olivine",
+        "hex": "#9AB973",
+        "coefficient": 201
+    },
+    {
+        "color": "Raw sienna",
+        "hex": "#D68A59",
+        "coefficient": 200
+    },
+    {
+        "color": "Wood brown",
+        "hex": "#C19A6B",
+        "coefficient": 199
+    },
+    {
+        "color": "Amethyst",
+        "hex": "#9966CC",
+        "coefficient": 198
+    },
+    {
+        "color": "Blue gray",
+        "hex": "#6699CC",
+        "coefficient": 197
+    },
+    {
+        "color": "Cerulean frost",
+        "hex": "#6D9BC3",
+        "coefficient": 196
+    },
+    {
+        "color": "Deep saffron",
+        "hex": "#FF9933",
+        "coefficient": 195
+    },
+    {
+        "color": "Fire opal",
+        "hex": "#E95C4B",
+        "coefficient": 194
+    },
+    {
+        "color": "June bud",
+        "hex": "#BDDA57",
+        "coefficient": 193
+    },
+    {
+        "color": "Livid",
+        "hex": "#6699CC",
+        "coefficient": 192
+    },
+    {
+        "color": "Maximum yellow",
+        "hex": "#FAFA37",
+        "coefficient": 191
+    },
+    {
+        "color": "Misty moss",
+        "hex": "#BBB477",
+        "coefficient": 190
+    },
+    {
+        "color": "Morning blue",
+        "hex": "#8DA399",
+        "coefficient": 189
+    },
+    {
+        "color": "Radical Red",
+        "hex": "#FF355E",
+        "coefficient": 188
+    },
+    {
+        "color": "Sunglow",
+        "hex": "#FFCC33",
+        "coefficient": 187
+    },
+    {
+        "color": "Yellow RYB",
+        "hex": "#FEFE33",
+        "coefficient": 186
+    },
+    {
+        "color": "Cool grey",
+        "hex": "#8C92AC",
+        "coefficient": 185
+    },
+    {
+        "color": "Orange Crayola",
+        "hex": "#FF7538",
+        "coefficient": 184
+    },
+    {
+        "color": "Orange soda",
+        "hex": "#FA5B3D",
+        "coefficient": 183
+    },
+    {
+        "color": "Pistachio",
+        "hex": "#93C572",
+        "coefficient": 182
+    },
+    {
+        "color": "Portland Orange",
+        "hex": "#FF5A36",
+        "coefficient": 181
+    },
+    {
+        "color": "Red Salsa",
+        "hex": "#FD3A4A",
+        "coefficient": 180
+    },
+    {
+        "color": "Sizzling Red",
+        "hex": "#FF3855",
+        "coefficient": 179
+    },
+    {
+        "color": "Ultramarine blue",
+        "hex": "#4166F5",
+        "coefficient": 178
+    },
+    {
+        "color": "Blush",
+        "hex": "#DE5D83",
+        "coefficient": 177
+    },
+    {
+        "color": "Burnt sienna",
+        "hex": "#E97451",
+        "coefficient": 176
+    },
+    {
+        "color": "Maize Crayola",
+        "hex": "#F2C649",
+        "coefficient": 175
+    },
+    {
+        "color": "Mandarin",
+        "hex": "#F37A48",
+        "coefficient": 174
+    },
+    {
+        "color": "Opera mauve",
+        "hex": "#B784A7",
+        "coefficient": 173
+    },
+    {
+        "color": "Rose bonbon",
+        "hex": "#F9429E",
+        "coefficient": 172
+    },
+    {
+        "color": "Sunray",
+        "hex": "#E3AB57",
+        "coefficient": 171
+    },
+    {
+        "color": "Terra cotta",
+        "hex": "#E2725B",
+        "coefficient": 170
+    },
+    {
+        "color": "Antique brass",
+        "hex": "#CD9575",
+        "coefficient": 169
+    },
+    {
+        "color": "Cadet grey",
+        "hex": "#91A3B0",
+        "coefficient": 168
+    },
+    {
+        "color": "Copper Crayola",
+        "hex": "#DA8A67",
+        "coefficient": 167
+    },
+    {
+        "color": "Earth yellow",
+        "hex": "#E1A95F",
+        "coefficient": 166
+    },
+    {
+        "color": "Ecru",
+        "hex": "#C2B280",
+        "coefficient": 165
+    },
+    {
+        "color": "Heliotrope gray",
+        "hex": "#AA98A9",
+        "coefficient": 164
+    },
+    {
+        "color": "Iceberg",
+        "hex": "#71A6D2",
+        "coefficient": 163
+    },
+    {
+        "color": "Manatee",
+        "hex": "#979AAA",
+        "coefficient": 162
+    },
+    {
+        "color": "Mango Tango",
+        "hex": "#FF8243",
+        "coefficient": 161
+    },
+    {
+        "color": "Medium aquamarine",
+        "hex": "#66DDAA",
+        "coefficient": 160
+    },
+    {
+        "color": "Neon Carrot",
+        "hex": "#FFA343",
+        "coefficient": 159
+    },
+    {
+        "color": "Neon fuchsia",
+        "hex": "#FE4164",
+        "coefficient": 158
+    },
+    {
+        "color": "Old rose",
+        "hex": "#C08081",
+        "coefficient": 157
+    },
+    {
+        "color": "Pewter Blue",
+        "hex": "#8BA8B7",
+        "coefficient": 156
+    },
+    {
+        "color": "Rose quartz",
+        "hex": "#AA98A9",
+        "coefficient": 155
+    },
+    {
+        "color": "Sand",
+        "hex": "#C2B280",
+        "coefficient": 154
+    },
+    {
+        "color": "Sky magenta",
+        "hex": "#CF71AF",
+        "coefficient": 153
+    },
+    {
+        "color": "Tart Orange",
+        "hex": "#FB4D46",
+        "coefficient": 152
+    },
+    {
+        "color": "Wild Strawberry",
+        "hex": "#FF43A4",
+        "coefficient": 151
+    },
+    {
+        "color": "Yellow Orange",
+        "hex": "#FFAE42",
+        "coefficient": 150
+    },
+    {
+        "color": "Glossy grape",
+        "hex": "#AB92B3",
+        "coefficient": 149
+    },
+    {
+        "color": "Infrared",
+        "hex": "#FF496C",
+        "coefficient": 148
+    },
+    {
+        "color": "Lilac Luster",
+        "hex": "#AE98AA",
+        "coefficient": 147
+    },
+    {
+        "color": "Minion yellow",
+        "hex": "#F5E050",
+        "coefficient": 146
+    },
+    {
+        "color": "Neon blue",
+        "hex": "#4666FF",
+        "coefficient": 145
+    },
+    {
+        "color": "Red orange",
+        "hex": "#FF5349",
+        "coefficient": 144
+    },
+    {
+        "color": "Sage",
+        "hex": "#BCB88A",
+        "coefficient": 143
+    },
+    {
+        "color": "Tan Crayola",
+        "hex": "#D99A6C",
+        "coefficient": 142
+    },
+    {
+        "color": "Tomato",
+        "hex": "#FF6347",
+        "coefficient": 141
+    },
+    {
+        "color": "Wild orchid",
+        "hex": "#D470A2",
+        "coefficient": 140
+    },
+    {
+        "color": "Blue jeans",
+        "hex": "#5DADEC",
+        "coefficient": 139
+    },
+    {
+        "color": "Inchworm",
+        "hex": "#B2EC5D",
+        "coefficient": 138
+    },
+    {
+        "color": "Lemon yellow",
+        "hex": "#FFF44F",
+        "coefficient": 137
+    },
+    {
+        "color": "Liseran purple",
+        "hex": "#DE6FA1",
+        "coefficient": 136
+    },
+    {
+        "color": "Magenta Crayola",
+        "hex": "#F653A6",
+        "coefficient": 135
+    },
+    {
+        "color": "Medium purple",
+        "hex": "#9370DB",
+        "coefficient": 134
+    },
+    {
+        "color": "Orchid",
+        "hex": "#DA70D6",
+        "coefficient": 133
+    },
+    {
+        "color": "Outrageous Orange",
+        "hex": "#FF6E4A",
+        "coefficient": 132
+    },
+    {
+        "color": "Purple pizzazz",
+        "hex": "#FE4EDA",
+        "coefficient": 131
+    },
+    {
+        "color": "Rosy brown",
+        "hex": "#BC8F8F",
+        "coefficient": 130
+    },
+    {
+        "color": "Strawberry",
+        "hex": "#FA5053",
+        "coefficient": 129
+    },
+    {
+        "color": "Violet red",
+        "hex": "#F75394",
+        "coefficient": 128
+    },
+    {
+        "color": "Coral",
+        "hex": "#FF7F50",
+        "coefficient": 127
+    },
+    {
+        "color": "Cornflower blue",
+        "hex": "#6495ED",
+        "coefficient": 126
+    },
+    {
+        "color": "Straw",
+        "hex": "#E4D96F",
+        "coefficient": 125
+    },
+    {
+        "color": "Arylide yellow",
+        "hex": "#E9D66B",
+        "coefficient": 124
+    },
+    {
+        "color": "Brilliant rose",
+        "hex": "#FF55A3",
+        "coefficient": 123
+    },
+    {
+        "color": "Fawn",
+        "hex": "#E5AA70",
+        "coefficient": 122
+    },
+    {
+        "color": "Fiery rose",
+        "hex": "#FF5470",
+        "coefficient": 121
+    },
+    {
+        "color": "Hansa yellow",
+        "hex": "#E9D66B",
+        "coefficient": 120
+    },
+    {
+        "color": "Khaki web",
+        "hex": "#C3B091",
+        "coefficient": 119
+    },
+    {
+        "color": "Laurel green",
+        "hex": "#A9BA9D",
+        "coefficient": 118
+    },
+    {
+        "color": "Maize",
+        "hex": "#FBEC5D",
+        "coefficient": 117
+    },
+    {
+        "color": "Mustard",
+        "hex": "#FFDB58",
+        "coefficient": 116
+    },
+    {
+        "color": "Naples yellow",
+        "hex": "#FADA5E",
+        "coefficient": 115
+    },
+    {
+        "color": "Puce",
+        "hex": "#CC8899",
+        "coefficient": 114
+    },
+    {
+        "color": "Royal yellow",
+        "hex": "#FADA5E",
+        "coefficient": 113
+    },
+    {
+        "color": "Sandy brown",
+        "hex": "#F4A460",
+        "coefficient": 112
+    },
+    {
+        "color": "Bittersweet",
+        "hex": "#FE6F5E",
+        "coefficient": 111
+    },
+    {
+        "color": "Corn",
+        "hex": "#FBEC5D",
+        "coefficient": 110
+    },
+    {
+        "color": "Icterine",
+        "hex": "#FCF75E",
+        "coefficient": 109
+    },
+    {
+        "color": "Lavender floral",
+        "hex": "#B57EDC",
+        "coefficient": 108
+    },
+    {
+        "color": "Middle purple",
+        "hex": "#D982B5",
+        "coefficient": 107
+    },
+    {
+        "color": "Middle red",
+        "hex": "#E58E73",
+        "coefficient": 106
+    },
+    {
+        "color": "Rajah",
+        "hex": "#FBAB60",
+        "coefficient": 105
+    },
+    {
+        "color": "Tuscany",
+        "hex": "#C09999",
+        "coefficient": 104
+    },
+    {
+        "color": "Eton blue",
+        "hex": "#96C8A2",
+        "coefficient": 103
+    },
+    {
+        "color": "Shimmering Blush",
+        "hex": "#D98695",
+        "coefficient": 102
+    },
+    {
+        "color": "Strawberry Blonde",
+        "hex": "#FF9361",
+        "coefficient": 101
+    },
+    {
+        "color": "Tan",
+        "hex": "#D2B48C",
+        "coefficient": 100
+    },
+    {
+        "color": "Aero",
+        "hex": "#7CB9E8",
+        "coefficient": 99
+    },
+    {
+        "color": "Atomic tangerine",
+        "hex": "#FF9966",
+        "coefficient": 98
+    },
+    {
+        "color": "Burlywood",
+        "hex": "#DEB887",
+        "coefficient": 97
+    },
+    {
+        "color": "Cambridge blue",
+        "hex": "#A3C1AD",
+        "coefficient": 96
+    },
+    {
+        "color": "Cyclamen",
+        "hex": "#F56FA1",
+        "coefficient": 95
+    },
+    {
+        "color": "Dark salmon",
+        "hex": "#E9967A",
+        "coefficient": 94
+    },
+    {
+        "color": "Laser lemon",
+        "hex": "#FFFF66",
+        "coefficient": 93
+    },
+    {
+        "color": "Middle blue",
+        "hex": "#7ED4E6",
+        "coefficient": 92
+    },
+    {
+        "color": "Pale Dogwood",
+        "hex": "#ED7A9B",
+        "coefficient": 91
+    },
+    {
+        "color": "Rose Pompadour",
+        "hex": "#ED7A9B",
+        "coefficient": 90
+    },
+    {
+        "color": "Screamin Green",
+        "hex": "#66FF66",
+        "coefficient": 89
+    },
+    {
+        "color": "Tumbleweed",
+        "hex": "#DEAA88",
+        "coefficient": 88
+    },
+    {
+        "color": "Unmellow yellow",
+        "hex": "#FFFF66",
+        "coefficient": 87
+    },
+    {
+        "color": "Lilac",
+        "hex": "#C8A2C8",
+        "coefficient": 86
+    },
+    {
+        "color": "Opal",
+        "hex": "#A8C3BC",
+        "coefficient": 85
+    },
+    {
+        "color": "Salmon",
+        "hex": "#FA8072",
+        "coefficient": 84
+    },
+    {
+        "color": "Ultra red",
+        "hex": "#FC6C85",
+        "coefficient": 83
+    },
+    {
+        "color": "Wild watermelon",
+        "hex": "#FC6C85",
+        "coefficient": 82
+    },
+    {
+        "color": "Ash gray",
+        "hex": "#B2BEB5",
+        "coefficient": 81
+    },
+    {
+        "color": "Black Shadows",
+        "hex": "#BFAFB2",
+        "coefficient": 80
+    },
+    {
+        "color": "Flax",
+        "hex": "#EEDC82",
+        "coefficient": 79
+    },
+    {
+        "color": "Gold Crayola",
+        "hex": "#E6BE8A",
+        "coefficient": 78
+    },
+    {
+        "color": "Light coral",
+        "hex": "#F08080",
+        "coefficient": 77
+    },
+    {
+        "color": "Maya blue",
+        "hex": "#73C2FB",
+        "coefficient": 76
+    },
+    {
+        "color": "Mellow apricot",
+        "hex": "#F8B878",
+        "coefficient": 75
+    },
+    {
+        "color": "Violet web",
+        "hex": "#EE82EE",
+        "coefficient": 74
+    },
+    {
+        "color": "Blue bell",
+        "hex": "#A2A2D0",
+        "coefficient": 73
+    },
+    {
+        "color": "Heliotrope",
+        "hex": "#DF73FF",
+        "coefficient": 72
+    },
+    {
+        "color": "Jasmine",
+        "hex": "#F8DE7E",
+        "coefficient": 71
+    },
+    {
+        "color": "Mellow yellow",
+        "hex": "#F8DE7E",
+        "coefficient": 70
+    },
+    {
+        "color": "Sky blue",
+        "hex": "#87CEEB",
+        "coefficient": 69
+    },
+    {
+        "color": "Turquoise green",
+        "hex": "#A0D6B4",
+        "coefficient": 68
+    },
+    {
+        "color": "Baby blue",
+        "hex": "#89CFF0",
+        "coefficient": 67
+    },
+    {
+        "color": "Light salmon",
+        "hex": "#FFA07A",
+        "coefficient": 66
+    },
+    {
+        "color": "Aquamarine",
+        "hex": "#7FFFD4",
+        "coefficient": 65
+    },
+    {
+        "color": "Bright lilac",
+        "hex": "#D891EF",
+        "coefficient": 64
+    },
+    {
+        "color": "Buff",
+        "hex": "#FFC680",
+        "coefficient": 63
+    },
+    {
+        "color": "Electric blue",
+        "hex": "#7DF9FF",
+        "coefficient": 62
+    },
+    {
+        "color": "Key lime",
+        "hex": "#E8F48C",
+        "coefficient": 61
+    },
+    {
+        "color": "Light green",
+        "hex": "#90EE90",
+        "coefficient": 60
+    },
+    {
+        "color": "Mindaro",
+        "hex": "#E3F988",
+        "coefficient": 59
+    },
+    {
+        "color": "Orchid Crayola",
+        "hex": "#E29CD2",
+        "coefficient": 58
+    },
+    {
+        "color": "Pale cerulean",
+        "hex": "#9BC4E2",
+        "coefficient": 57
+    },
+    {
+        "color": "Plum web",
+        "hex": "#DDA0DD",
+        "coefficient": 56
+    },
+    {
+        "color": "Wisteria",
+        "hex": "#C9A0DC",
+        "coefficient": 55
+    },
+    {
+        "color": "Yellow Crayola",
+        "hex": "#FCE883",
+        "coefficient": 54
+    },
+    {
+        "color": "Crystal",
+        "hex": "#A7D8DE",
+        "coefficient": 53
+    },
+    {
+        "color": "Kobi",
+        "hex": "#E79FC4",
+        "coefficient": 52
+    },
+    {
+        "color": "Vanilla ice",
+        "hex": "#F38FA9",
+        "coefficient": 51
+    },
+    {
+        "color": "Mauvelous",
+        "hex": "#EF98AA",
+        "coefficient": 50
+    },
+    {
+        "color": "Vivid tangerine",
+        "hex": "#FFA089",
+        "coefficient": 49
+    },
+    {
+        "color": "Celadon",
+        "hex": "#ACE1AF",
+        "coefficient": 48
+    },
+    {
+        "color": "Lavender gray",
+        "hex": "#C4C3D0",
+        "coefficient": 47
+    },
+    {
+        "color": "Light blue",
+        "hex": "#ADD8E6",
+        "coefficient": 46
+    },
+    {
+        "color": "Blizzard blue",
+        "hex": "#ACE5EE",
+        "coefficient": 45
+    },
+    {
+        "color": "Canary",
+        "hex": "#FFFF99",
+        "coefficient": 44
+    },
+    {
+        "color": "Magic mint",
+        "hex": "#AAF0D1",
+        "coefficient": 43
+    },
+    {
+        "color": "Mint green",
+        "hex": "#98FF98",
+        "coefficient": 42
+    },
+    {
+        "color": "Powder blue",
+        "hex": "#B0E0E6",
+        "coefficient": 41
+    },
+    {
+        "color": "Thistle",
+        "hex": "#D8BFD8",
+        "coefficient": 40
+    },
+    {
+        "color": "Deep champagne",
+        "hex": "#FAD6A5",
+        "coefficient": 39
+    },
+    {
+        "color": "Desert sand",
+        "hex": "#EDC9AF",
+        "coefficient": 38
+    },
+    {
+        "color": "Medium champagne",
+        "hex": "#F3E5AB",
+        "coefficient": 37
+    },
+    {
+        "color": "Sunset",
+        "hex": "#FAD6A5",
+        "coefficient": 36
+    },
+    {
+        "color": "Tuscan",
+        "hex": "#FAD6A5",
+        "coefficient": 35
+    },
+    {
+        "color": "Vanilla",
+        "hex": "#F3E5AB",
+        "coefficient": 34
+    },
+    {
+        "color": "Beau blue",
+        "hex": "#BCD4E6",
+        "coefficient": 33
+    },
+    {
+        "color": "Columbia Blue",
+        "hex": "#B9D9EB",
+        "coefficient": 32
+    },
+    {
+        "color": "Pale aqua",
+        "hex": "#BCD4E6",
+        "coefficient": 31
+    },
+    {
+        "color": "Peach Crayola",
+        "hex": "#FFCBA4",
+        "coefficient": 30
+    },
+    {
+        "color": "Uranian blue",
+        "hex": "#AFDBF5",
+        "coefficient": 29
+    },
+    {
+        "color": "Aero blue",
+        "hex": "#C0E8D5",
+        "coefficient": 28
+    },
+    {
+        "color": "Languid lavender",
+        "hex": "#D6CADD",
+        "coefficient": 27
+    },
+    {
+        "color": "Light gray",
+        "hex": "#D3D3D3",
+        "coefficient": 26
+    },
+    {
+        "color": "Light periwinkle",
+        "hex": "#C5CBE1",
+        "coefficient": 25
+    },
+    {
+        "color": "Wheat",
+        "hex": "#F5DEB3",
+        "coefficient": 24
+    },
+    {
+        "color": "Apricot",
+        "hex": "#FBCEB1",
+        "coefficient": 23
+    },
+    {
+        "color": "Silver",
+        "hex": "#C0C0C0",
+        "coefficient": 22
+    },
+    {
+        "color": "Bone",
+        "hex": "#E3DAC9",
+        "coefficient": 21
+    },
+    {
+        "color": "Dutch white",
+        "hex": "#EFDFBB",
+        "coefficient": 20
+    },
+    {
+        "color": "Melon",
+        "hex": "#FEBAAD",
+        "coefficient": 19
+    },
+    {
+        "color": "Navajo white",
+        "hex": "#FFDEAD",
+        "coefficient": 18
+    },
+    {
+        "color": "Timberwolf",
+        "hex": "#DBD7D2",
+        "coefficient": 17
+    },
+    {
+        "color": "Banana Mania",
+        "hex": "#FAE7B5",
+        "coefficient": 16
+    },
+    {
+        "color": "Celeste",
+        "hex": "#B2FFFF",
+        "coefficient": 15
+    },
+    {
+        "color": "Lemon meringue",
+        "hex": "#F6EABE",
+        "coefficient": 14
+    },
+    {
+        "color": "Light orange",
+        "hex": "#FED8B1",
+        "coefficient": 13
+    },
+    {
+        "color": "Mauve",
+        "hex": "#E0B0FF",
+        "coefficient": 12
+    },
+    {
+        "color": "Peach",
+        "hex": "#FFE5B4",
+        "coefficient": 11
+    },
+    {
+        "color": "Tea green",
+        "hex": "#D0F0C0",
+        "coefficient": 10
+    },
+    {
+        "color": "Blond",
+        "hex": "#FAF0BE",
+        "coefficient": 9
+    },
+    {
+        "color": "Gainsboro",
+        "hex": "#DCDCDC",
+        "coefficient": 8
+    },
+    {
+        "color": "Peach puff",
+        "hex": "#FFDAB9",
+        "coefficient": 7
+    },
+    {
+        "color": "Tea rose",
+        "hex": "#F4C2C2",
+        "coefficient": 6
+    },
+    {
+        "color": "Almond",
+        "hex": "#EFDECD",
+        "coefficient": 5
+    },
+    {
+        "color": "Cotton candy",
+        "hex": "#FFBCD9",
+        "coefficient": 4
+    },
+    {
+        "color": "Bisque",
+        "hex": "#FFE4C4",
+        "coefficient": 3
+    },
+    {
+        "color": "Parchment",
+        "hex": "#F1E9D2",
+        "coefficient": 2
+    },
+    {
+        "color": "Pink",
+        "hex": "#FFC0CB",
+        "coefficient": 1
+    },
+    {
+        "color": "White",
+        "hex": "#FFFFFF",
+        "coefficient": 0
+    }
+]
