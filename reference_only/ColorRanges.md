@@ -58,7 +58,7 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | 48 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=3B2F2F&style=for-the-badge) | Black coffee | #3B2F2F |
 | 49 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=006A4E&style=for-the-badge) | Bottle green | #006A4E |
 | 50 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=006B3C&style=for-the-badge) | Cadmium green | #006B3C |
-| 51 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4B3621&style=for-the-badge) | CafÃ© noir | #4B3621 |
+| 51 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4B3621&style=for-the-badge) | Café noir | #4B3621 |
 | 52 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=58111A&style=for-the-badge) | Chocolate Cosmos | #58111A |
 | 53 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00416A&style=for-the-badge) | Indigo dye | #00416A |
 | 54 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00356B&style=for-the-badge) | Yale Blue | #00356B |
@@ -279,7 +279,7 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | 269 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=663399&style=for-the-badge) | Rebecca Purple | #663399 |
 | 270 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00CCCC&style=for-the-badge) | Robin egg blue | #00CCCC |
 | 271 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2D5DA1&style=for-the-badge) | Sapphire Crayola | #2D5DA1 |
-| 272 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD5700&style=for-the-badge) | TennÃ© tawny | #CD5700 |
+| 272 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD5700&style=for-the-badge) | Tenné tawny | #CD5700 |
 | 273 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AE2029&style=for-the-badge) | Upsdell red | #AE2029 |
 | 274 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=30B21A&style=for-the-badge) | Yellow green Color Wheel | #30B21A |
 | 275 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AB274F&style=for-the-badge) | Amaranth purple | #AB274F |
@@ -442,7 +442,7 @@ Crime coefficient is undecided until possible doubles are pruned and the listing
 | 432 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD7F32&style=for-the-badge) | Bronze | #CD7F32 |
 | 433 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=5F9EA0&style=for-the-badge) | Cadet blue | #5F9EA0 |
 | 434 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFF600&style=for-the-badge) | Cadmium yellow | #FFF600 |
-| 435 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A67B5B&style=for-the-badge) | CafÃ© au lait | #A67B5B |
+| 435 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A67B5B&style=for-the-badge) | Café au lait | #A67B5B |
 | 436 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FFEF00&style=for-the-badge) | Canary yellow | #FFEF00 |
 | 437 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=FF0800&style=for-the-badge) | Candy apple red | #FF0800 |
 | 438 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00BFFF&style=for-the-badge) | Capri | #00BFFF |
