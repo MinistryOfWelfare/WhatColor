@@ -202,7 +202,7 @@ Refer to [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) for detailed 
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=4E5180&style=for-the-badge) | Purple navy | #4E5180 |	486 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=663399&style=for-the-badge) | Rebecca Purple | #663399 |	485 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=2D5DA1&style=for-the-badge) | Sapphire Crayola | #2D5DA1 |	484 |
-| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD5700&style=for-the-badge) | TennÃ© tawny | #CD5700 |	483 |
+| ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=CD5700&style=for-the-badge) | Tenné tawny | #CD5700 |	483 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=AE2029&style=for-the-badge) | Upsdell red | #AE2029 |	482 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=A52A2A&style=for-the-badge) | Auburn | #A52A2A |	481 |
 | ![ㅤㅤㅤㅤㅤ](https://img.shields.io/static/v1?label=&message=ㅤㅤㅤㅤㅤ&color=00CED1&style=for-the-badge) | Dark turquoise | #00CED1 |	480 |
